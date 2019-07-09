@@ -1,0 +1,5998 @@
+,0
+0,none
+1,Merriewood
+2,Upper Rockridge
+3,Rockridge
+4,Rockridge
+5,Rockridge
+6,Rockridge
+7,Rockridge
+8,Shafter
+9,Rockridge
+10,Upper Telegraph
+11,Upper Telegraph
+12,Upper Telegraph
+13,Shafter
+14,Upper Telegraph
+15,Upper Telegraph
+16,South Berkeley
+17,South Berkeley
+18,Shafter
+19,Bushrod
+20,South Berkeley
+21,South Berkeley
+22,Bushrod
+23,Bushrod
+24,Bushrod
+25,Southwest Berkeley
+26,Southwest Berkeley
+27,Southwest Berkeley
+28,Gaskill
+29,Gaskill
+30,Gaskill
+31,Gaskill
+32,Bushrod
+33,Longfellow
+34,Longfellow
+35,Longfellow
+36,Longfellow
+37,none
+38,Temescal
+39,Temescal
+40,Temescal
+41,Temescal
+42,Shafter
+43,Shafter
+44,Temescal
+45,Temescal
+46,Temescal
+47,Pill Hill
+48,Oakland Ave - Harrison St
+49,Pill Hill
+50,Pill Hill
+51,Pill Hill
+52,Pill Hill
+53,Pill Hill
+54,McClymonds
+55,McClymonds
+56,McClymonds
+57,McClymonds
+58,McClymonds
+59,Prescott
+60,none
+61,Prescott
+62,Oak Center
+63,Prescott
+64,Prescott
+65,Prescott
+66,Prescott
+67,Acorn Industrial
+68,Prescott
+69,Oak Center
+70,Oak Center
+71,Oak Center
+72,Oak Center
+73,Oak Center
+74,Oak Center
+75,Oak Center
+76,Oak Center
+77,Oak Center
+78,Oak Center
+79,Produce and Waterfront
+80,Oak Center
+81,Uptown
+82,Oak Center
+83,Oak Center
+84,Oak Center
+85,Oak Center
+86,Uptown
+87,Uptown
+88,Chinatown
+89,Chinatown
+90,Chinatown
+91,Produce and Waterfront
+92,Produce and Waterfront
+93,none
+94,Chinatown
+95,none
+96,Oakland Ave - Harrison St
+97,none
+98,Oakland Ave - Harrison St
+99,Oakland Ave - Harrison St
+100,Cleveland Heights
+101,Cleveland Heights
+102,Cleveland Heights
+103,Cleveland Heights
+104,none
+105,none
+106,Trestle Glen
+107,Cleveland Heights
+108,none
+109,Grand Lake
+110,Grand Lake
+111,Grand Lake
+112,Grand Lake
+113,Piedmont Avenue
+114,Piedmont Avenue
+115,Piedmont Avenue
+116,Piedmont Avenue
+117,Piedmont Avenue
+118,Upper Rockridge
+119,Upper Rockridge
+120,none
+121,Upper Rockridge
+122,Hiller Highlands
+123,none
+124,Upper Rockridge
+125,Merriewood
+126,Glen Highlands
+127,Merriewood
+128,Montclair
+129,Forestland
+130,Merriewood
+131,none
+132,Forestland
+133,Montclair
+134,Piedmont Pines
+135,Shepherd Canyon
+136,Piedmont Pines
+137,Piedmont Pines
+138,Piedmont Pines
+139,Piedmont Pines
+140,Joaquin Miller Park
+141,Montclair
+142,Lincoln Highlands
+143,Upper Dimond
+144,Upper Dimond
+145,Oakmore
+146,Glenview
+147,Glenview
+148,Glenview
+149,Glenview
+150,Glenview
+151,Glenview
+152,Lynn
+153,Trestle Glen
+154,Glenview
+155,Trestle Glen
+156,Trestle Glen
+157,Trestle Glen
+158,Trestle Glen
+159,Trestle Glen
+160,Bella Vista
+161,Ivy Hill
+162,Trestle Glen
+163,Cleveland Heights
+164,Ivy Hill
+165,Ivy Hill
+166,Ivy Hill
+167,Ivy Hill
+168,Rancho San Antonio
+169,East Peralta
+170,East Peralta
+171,East Peralta
+172,Ivy Hill
+173,Ivy Hill
+174,Bella Vista
+175,Bella Vista
+176,Bella Vista
+177,Bella Vista
+178,Lynn
+179,Bella Vista
+180,Bella Vista
+181,Lynn
+182,Lynn
+183,Lynn
+184,Lynn
+185,Meadow Brook
+186,Meadow Brook
+187,Meadow Brook
+188,Rancho San Antonio
+189,Rancho San Antonio
+190,Rancho San Antonio
+191,Rancho San Antonio
+192,East Peralta
+193,East Peralta
+194,East Peralta
+195,none
+196,South Kennedy Tract
+197,South Kennedy Tract
+198,Jingletown
+199,Oak Tree
+200,Oak Tree
+201,Saint Elizabeth
+202,Oak Tree
+203,Oak Tree
+204,Oak Tree
+205,Meadow Brook
+206,Meadow Brook
+207,Patten
+208,Meadow Brook
+209,Meadow Brook
+210,Patten
+211,Patten
+212,Bartlett
+213,Patten
+214,Patten
+215,Patten
+216,Laurel
+217,Bartlett
+218,Bartlett
+219,Bartlett
+220,Upper Dimond
+221,Upper Dimond
+222,Upper Dimond
+223,Upper Dimond
+224,Upper Dimond
+225,Upper Dimond
+226,Upper Dimond
+227,Redwood Heights
+228,Redwood Heights
+229,Redwood Heights
+230,Laurel
+231,Upper Dimond
+232,Redwood Heights
+233,Redwood Heights
+234,Redwood Heights
+235,Laurel
+236,Laurel
+237,Laurel
+238,Bartlett
+239,Laurel
+240,Jefferson
+241,Jefferson
+242,Jefferson
+243,Jefferson
+244,Saint Elizabeth
+245,Jefferson
+246,Jefferson
+247,South Kennedy Tract
+248,Saint Elizabeth
+249,Saint Elizabeth
+250,Saint Elizabeth
+251,Coliseum Industrial
+252,Melrose
+253,Melrose
+254,Wentworth Holland
+255,Melrose
+256,Melrose
+257,Bancroft Business
+258,Wentworth Holland
+259,Wentworth Holland
+260,Maxwell Park
+261,Maxwell Park
+262,Maxwell Park
+263,Wentworth Holland
+264,Jefferson
+265,Maxwell Park
+266,Bancroft Business
+267,Bancroft Business
+268,Maxwell Park
+269,Maxwell Park
+270,Mills College
+271,Maxwell Park
+272,Maxwell Park
+273,Maxwell Park
+274,Leona Heights
+275,Leona Heights
+276,Leona Heights
+277,Redwood Heights
+278,Redwood Heights
+279,Joaquin Miller Park
+280,Crestmont
+281,Crestmont
+282,Sequoyah
+283,Skyline-Hillcrest Estates
+284,Leona Heights
+285,Eastmont Hills
+286,Mills College
+287,Mills College
+288,Leona Heights
+289,Leona Heights
+290,Eastmont Hills
+291,Eastmont Hills
+292,Eastmont Hills
+293,Eastmont Hills
+294,Eastmont Hills
+295,Eastmont Hills
+296,Eastmont
+297,Eastmont
+298,Arroyo Viejo
+299,Eastmont
+300,Arroyo Viejo
+301,Arroyo Viejo
+302,Arroyo Viejo
+303,Bancroft Business
+304,Bancroft Business
+305,Arroyo Viejo
+306,Coliseum
+307,Bancroft Business
+308,Bancroft Business
+309,Bancroft Business
+310,Coliseum
+311,Lockwood Gardens
+312,Bancroft Business
+313,Bancroft Business
+314,Coliseum
+315,Coliseum
+316,Coliseum Industrial
+317,Lockwood Gardens
+318,Coliseum
+319,Woodland
+320,Woodland
+321,Coliseum
+322,Coliseum Industrial
+323,Elmhurst Park
+324,Columbia Gardens
+325,Coliseum Industrial
+326,Columbia Gardens
+327,none
+328,none
+329,none
+330,none
+331,North Stonehurst
+332,North Stonehurst
+333,North Stonehurst
+334,Davis Tract
+335,Elmhurst Park
+336,North Stonehurst
+337,North Stonehurst
+338,Elmhurst Park
+339,Highland
+340,Highland
+341,Webster
+342,Highland
+343,Woodland
+344,Highland
+345,Highland
+346,Eastmont
+347,Webster
+348,Webster
+349,Webster
+350,Webster
+351,Oak Knoll Golf Links
+352,Castlemont
+353,Webster
+354,Eastmont
+355,Oak Knoll Golf Links
+356,Oak Knoll Golf Links
+357,Oak Knoll Golf Links
+358,Sequoyah
+359,Sequoyah
+360,Sequoyah
+361,Chabot Park
+362,Chabot Park
+363,Sequoyah
+364,Sequoyah
+365,Chabot Park
+366,Chabot Park
+367,Chabot Park
+368,Castlemont
+369,Sequoyah
+370,Sequoyah
+371,Broadmoor
+372,Castlemont
+373,Castlemont
+374,Broadmoor
+375,Broadmoor
+376,Castlemont
+377,Castlemont
+378,North Stonehurst
+379,Webster
+380,Durant Manor
+381,Durant Manor
+382,Durant Manor
+383,Durant Manor
+384,Durant Manor
+385,none
+386,none
+387,none
+388,none
+389,none
+390,none
+391,none
+392,none
+393,none
+394,none
+395,none
+396,none
+397,Northwest Berkeley
+398,none
+399,none
+400,North Berkeley
+401,none
+402,Berkeley Hills
+403,none
+404,Berkeley Hills
+405,Berkeley Hills
+406,Berkeley Hills
+407,Berkeley Hills
+408,Berkeley Hills
+409,Berkeley Hills
+410,Berkeley Hills
+411,Berkeley Hills
+412,Berkeley Hills
+413,Berkeley Hills
+414,Berkeley Hills
+415,Berkeley Hills
+416,Berkeley Hills
+417,none
+418,Berkeley Hills
+419,Berkeley Hills
+420,Berkeley Hills
+421,Berkeley Hills
+422,Berkeley Hills
+423,Berkeley Hills
+424,Berkeley Hills
+425,North Berkeley
+426,North Berkeley
+427,North Berkeley
+428,North Berkeley
+429,North Berkeley
+430,North Berkeley
+431,Northwest Berkeley
+432,Northwest Berkeley
+433,Northwest Berkeley
+434,Northwest Berkeley
+435,Northwest Berkeley
+436,Northwest Berkeley
+437,Northwest Berkeley
+438,Aquatic Park
+439,Southwest Berkeley
+440,Northwest Berkeley
+441,Northwest Berkeley
+442,North Berkeley
+443,Central Berkeley
+444,Central Berkeley
+445,Northwest Berkeley
+446,Northwest Berkeley
+447,North Berkeley
+448,Central Berkeley
+449,Central Berkeley
+450,North Berkeley
+451,Downtown Berkeley
+452,North Berkeley
+453,Berkeley Hills
+454,Berkeley Hills
+455,Berkeley Hills
+456,none
+457,none
+458,none
+459,none
+460,none
+461,none
+462,Downtown Berkeley
+463,Downtown Berkeley
+464,Downtown Berkeley
+465,South Berkeley
+466,Central Berkeley
+467,Central Berkeley
+468,Northwest Berkeley
+469,Northwest Berkeley
+470,Southwest Berkeley
+471,South Berkeley
+472,Northwest Berkeley
+473,Southwest Berkeley
+474,South Berkeley
+475,South Berkeley
+476,Southwest Berkeley
+477,South Berkeley
+478,South Berkeley
+479,South Berkeley
+480,South Berkeley
+481,South Berkeley
+482,South Berkeley
+483,South Berkeley
+484,South Berkeley
+485,South Berkeley
+486,South Berkeley
+487,South Berkeley
+488,South Berkeley
+489,Claremont
+490,Claremont
+491,Claremont
+492,Claremont
+493,Claremont Hills
+494,Upper Rockridge
+495,Claremont
+496,Upper Telegraph
+497,South Berkeley
+498,South Berkeley
+499,South Berkeley
+500,South Berkeley
+501,South Berkeley
+502,South Berkeley
+503,Southwest Berkeley
+504,Southwest Berkeley
+505,Southwest Berkeley
+506,none
+507,none
+508,none
+509,none
+510,none
+511,none
+512,none
+513,none
+514,none
+515,none
+516,none
+517,none
+518,none
+519,Grand Lake
+520,none
+521,none
+522,none
+523,none
+524,Jingletown
+525,none
+526,none
+527,none
+528,none
+529,none
+530,none
+531,none
+532,West Alameda
+533,West Alameda
+534,West Alameda
+535,West Alameda
+536,none
+537,none
+538,none
+539,West Alameda
+540,West Alameda
+541,West Alameda
+542,none
+543,none
+544,West Alameda
+545,West Alameda
+546,West Alameda
+547,West Alameda
+548,West Alameda
+549,none
+550,West Alameda
+551,West Alameda
+552,West Alameda
+553,West Alameda
+554,West Alameda
+555,none
+556,none
+557,none
+558,none
+559,none
+560,none
+561,none
+562,none
+563,none
+564,none
+565,none
+566,none
+567,none
+568,none
+569,none
+570,none
+571,none
+572,none
+573,none
+574,West Alameda
+575,none
+576,none
+577,none
+578,none
+579,none
+580,none
+581,none
+582,none
+583,none
+584,none
+585,none
+586,none
+587,none
+588,none
+589,none
+590,none
+591,none
+592,none
+593,none
+594,none
+595,none
+596,none
+597,none
+598,none
+599,none
+600,none
+601,none
+602,none
+603,none
+604,none
+605,none
+606,none
+607,none
+608,none
+609,none
+610,North Hayward
+611,Broadmoor
+612,Chabot Park
+613,Estudillo Estates - Glen
+614,Broadmoor
+615,Farrelly Pond District
+616,Broadmoor
+617,Estudillo Estates - Glen
+618,Estudillo Estates - Glen
+619,Davis Tract
+620,Farrelly Pond District
+621,Davis Tract
+622,Farrelly Pond District
+623,Davis Tract
+624,Davis Tract
+625,Mullford Gardens
+626,Mullford Gardens
+627,Mullford Gardens
+628,Davis Tract
+629,Davis Tract
+630,Davis Tract
+631,Davis Tract
+632,Old San Leandro
+633,Davis Tract
+634,Floresta Gardens - Bradrick
+635,Floresta Gardens - Bradrick
+636,Old San Leandro
+637,Estudillo Estates - Glen
+638,Old San Leandro
+639,Old San Leandro
+640,Old San Leandro
+641,Estudillo Estates - Glen
+642,Estudillo Estates - Glen
+643,Estudillo Estates - Glen
+644,none
+645,Bay-O-Vista
+646,Bay-O-Vista
+647,none
+648,Bay-O-Vista
+649,Assumption Parish
+650,Assumption Parish
+651,Bay-O-Vista
+652,Upper Bal
+653,Upper Bal
+654,Floresta Gardens - Bradrick
+655,Lower Bal
+656,Lower Bal
+657,Lower Bal
+658,Lower Bal
+659,Floresta Gardens - Bradrick
+660,Floresta Gardens - Bradrick
+661,Floresta Gardens - Bradrick
+662,Lower Bal
+663,none
+664,Floresta Gardens - Bradrick
+665,Washington Manor - Bonaire
+666,Washington Manor - Bonaire
+667,Washington Manor - Bonaire
+668,Washington Manor - Bonaire
+669,Floresta Gardens - Bradrick
+670,Washington Manor - Bonaire
+671,Washington Manor - Bonaire
+672,Washington Manor - Bonaire
+673,Marina Faire
+674,Heron Bay
+675,Heron Bay
+676,none
+677,Washington Manor - Bonaire
+678,Washington Manor - Bonaire
+679,Washington Manor - Bonaire
+680,Washington Manor - Bonaire
+681,Washington Manor - Bonaire
+682,Washington Manor - Bonaire
+683,none
+684,none
+685,none
+686,none
+687,none
+688,none
+689,none
+690,none
+691,none
+692,none
+693,none
+694,none
+695,none
+696,none
+697,none
+698,none
+699,none
+700,none
+701,none
+702,none
+703,Mission - Garin
+704,Mission - Garin
+705,Hayward Highland
+706,Hayward Highland
+707,none
+708,Upper B Street
+709,none
+710,none
+711,none
+712,none
+713,Burbank
+714,North Hayward
+715,North Hayward
+716,North Hayward
+717,North Hayward
+718,North Hayward
+719,North Hayward
+720,North Hayward
+721,none
+722,North Hayward
+723,none
+724,North Hayward
+725,none
+726,none
+727,none
+728,none
+729,none
+730,none
+731,none
+732,none
+733,none
+734,none
+735,none
+736,none
+737,none
+738,none
+739,none
+740,none
+741,none
+742,none
+743,none
+744,none
+745,Burbank
+746,Burbank
+747,Burbank
+748,Burbank
+749,none
+750,none
+751,none
+752,none
+753,none
+754,none
+755,none
+756,Hayward Highland
+757,Mission - Foothill
+758,Mission - Foothill
+759,Jackson Triangle
+760,Whitman - Wocine
+761,Jackson Triangle
+762,Jackson Triangle
+763,Jackson Triangle
+764,Santa Clara
+765,Santa Clara
+766,Santa Clara
+767,Jackson Triangle
+768,Jackson Triangle
+769,Jackson Triangle
+770,Santa Clara
+771,Longwood - Winton Grove
+772,Santa Clara
+773,Longwood - Winton Grove
+774,Longwood - Winton Grove
+775,Southgate
+776,Southgate
+777,Southgate
+778,Southgate
+779,Mount Eden
+780,Glen Eden
+781,none
+782,none
+783,Mount Eden
+784,Mount Eden
+785,Mount Eden
+786,none
+787,Glen Eden
+788,Harder - Tennyson
+789,Glen Eden
+790,Harder - Tennyson
+791,Harder - Tennyson
+792,Harder - Tennyson
+793,Harder - Tennyson
+794,Harder - Tennyson
+795,Harder - Tennyson
+796,Tennyson - Alquire
+797,Tennyson - Alquire
+798,Harder - Tennyson
+799,Harder - Tennyson
+800,Tennyson - Alquire
+801,Harder - Tennyson
+802,Mission - Garin
+803,Mission - Garin
+804,Mission - Garin
+805,Mission - Garin
+806,Mission - Garin
+807,Fairway Prk
+808,Fairway Prk
+809,Fairway Prk
+810,Fairway Prk
+811,Fairway Prk
+812,Fairway Prk
+813,Fairway Prk
+814,Fairway Prk
+815,none
+816,Fairway Prk
+817,Tennyson - Alquire
+818,Glen Eden
+819,Tennyson - Alquire
+820,Tennyson - Alquire
+821,Tennyson - Alquire
+822,Tennyson - Alquire
+823,none
+824,Tennyson - Alquire
+825,Tennyson - Alquire
+826,Glen Eden
+827,Glen Eden
+828,Glen Eden
+829,none
+830,none
+831,none
+832,none
+833,none
+834,none
+835,Fairway Prk
+836,none
+837,none
+838,none
+839,none
+840,none
+841,none
+842,none
+843,none
+844,none
+845,none
+846,none
+847,none
+848,none
+849,none
+850,none
+851,none
+852,none
+853,none
+854,none
+855,none
+856,none
+857,none
+858,none
+859,Parkmont
+860,Canyon Heights - Vallejo Mills
+861,Niles
+862,Niles
+863,Niles
+864,Brookvale
+865,Northgate
+866,Northgate
+867,none
+868,Lakes and Birds
+869,Ardenwood
+870,East Industrial
+871,none
+872,Cabrillo
+873,Cabrillo
+874,Cabrillo
+875,Cabrillo
+876,Centerville
+877,Centerville
+878,Centerville
+879,Centerville
+880,Parkmont
+881,Parkmont
+882,Central District
+883,Cherry - Guardino
+884,Central District
+885,Central District
+886,Sundale
+887,Centerville
+888,Kimber - Gomes
+889,Kimber - Gomes
+890,Mission Valley
+891,Mission Valley
+892,Cameron Hills
+893,Kimber - Gomes
+894,Mission Valley
+895,Irvington
+896,Irvington
+897,Irvington
+898,Irvington
+899,Central District
+900,South Sundale
+901,South Sundale
+902,South Sundale
+903,South Sundale
+904,Sundale
+905,Sundale
+906,Sundale
+907,Centerville
+908,Glenmoor
+909,Centerville
+910,Glenmoor
+911,Glenmoor
+912,Glenmoor
+913,none
+914,28 Palms
+915,Blacow
+916,Blacow
+917,Blacow
+918,Grimmer
+919,Grimmer
+920,Grimmer
+921,Mission San Jose
+922,Mission San Jose
+923,Vineyards - Avalon
+924,Warm Springs
+925,Warm Springs
+926,East Industrial
+927,Warm Springs
+928,none
+929,none
+930,none
+931,none
+932,none
+933,none
+934,none
+935,none
+936,none
+937,none
+938,none
+939,none
+940,none
+941,none
+942,none
+943,none
+944,none
+945,none
+946,none
+947,none
+948,none
+949,none
+950,none
+951,none
+952,none
+953,none
+954,none
+955,none
+956,none
+957,none
+958,none
+959,none
+960,none
+961,none
+962,none
+963,none
+964,none
+965,none
+966,none
+967,none
+968,none
+969,none
+970,none
+971,none
+972,none
+973,none
+974,none
+975,none
+976,none
+977,none
+978,none
+979,none
+980,none
+981,none
+982,none
+983,none
+984,none
+985,none
+986,none
+987,none
+988,none
+989,none
+990,none
+991,none
+992,none
+993,none
+994,Springtown
+995,Springtown
+996,none
+997,none
+998,none
+999,none
+1000,none
+1001,none
+1002,none
+1003,none
+1004,none
+1005,none
+1006,none
+1007,none
+1008,none
+1009,none
+1010,none
+1011,none
+1012,none
+1013,none
+1014,none
+1015,none
+1016,none
+1017,none
+1018,none
+1019,none
+1020,none
+1021,none
+1022,none
+1023,none
+1024,none
+1025,none
+1026,none
+1027,none
+1028,none
+1029,none
+1030,none
+1031,Shenandoah Valley
+1032,Shenandoah Valley
+1033,none
+1034,none
+1035,none
+1036,none
+1037,none
+1038,none
+1039,none
+1040,none
+1041,none
+1042,none
+1043,none
+1044,none
+1045,none
+1046,none
+1047,none
+1048,none
+1049,none
+1050,none
+1051,none
+1052,none
+1053,none
+1054,none
+1055,none
+1056,none
+1057,none
+1058,none
+1059,none
+1060,none
+1061,none
+1062,none
+1063,none
+1064,none
+1065,none
+1066,none
+1067,none
+1068,none
+1069,none
+1070,none
+1071,none
+1072,none
+1073,none
+1074,none
+1075,none
+1076,none
+1077,none
+1078,none
+1079,Chapmantown
+1080,none
+1081,none
+1082,none
+1083,none
+1084,none
+1085,none
+1086,none
+1087,none
+1088,none
+1089,Chapmantown
+1090,none
+1091,none
+1092,none
+1093,none
+1094,none
+1095,none
+1096,none
+1097,none
+1098,none
+1099,none
+1100,none
+1101,none
+1102,none
+1103,none
+1104,none
+1105,none
+1106,none
+1107,none
+1108,none
+1109,none
+1110,none
+1111,none
+1112,none
+1113,none
+1114,none
+1115,none
+1116,none
+1117,none
+1118,none
+1119,none
+1120,none
+1121,none
+1122,none
+1123,none
+1124,none
+1125,none
+1126,none
+1127,none
+1128,none
+1129,none
+1130,none
+1131,none
+1132,none
+1133,none
+1134,none
+1135,none
+1136,none
+1137,none
+1138,none
+1139,none
+1140,none
+1141,none
+1142,none
+1143,none
+1144,none
+1145,none
+1146,none
+1147,none
+1148,none
+1149,none
+1150,none
+1151,none
+1152,none
+1153,none
+1154,none
+1155,none
+1156,none
+1157,none
+1158,none
+1159,none
+1160,none
+1161,none
+1162,none
+1163,none
+1164,none
+1165,none
+1166,none
+1167,none
+1168,none
+1169,none
+1170,none
+1171,none
+1172,none
+1173,none
+1174,none
+1175,none
+1176,none
+1177,none
+1178,none
+1179,none
+1180,none
+1181,none
+1182,none
+1183,none
+1184,none
+1185,none
+1186,none
+1187,none
+1188,none
+1189,none
+1190,none
+1191,none
+1192,none
+1193,none
+1194,none
+1195,none
+1196,none
+1197,none
+1198,none
+1199,none
+1200,none
+1201,none
+1202,none
+1203,none
+1204,none
+1205,none
+1206,none
+1207,none
+1208,none
+1209,none
+1210,none
+1211,none
+1212,none
+1213,none
+1214,none
+1215,none
+1216,none
+1217,none
+1218,none
+1219,none
+1220,none
+1221,none
+1222,none
+1223,none
+1224,none
+1225,none
+1226,none
+1227,none
+1228,none
+1229,none
+1230,none
+1231,none
+1232,none
+1233,none
+1234,none
+1235,none
+1236,none
+1237,none
+1238,none
+1239,none
+1240,none
+1241,none
+1242,none
+1243,none
+1244,none
+1245,none
+1246,none
+1247,none
+1248,none
+1249,none
+1250,none
+1251,none
+1252,none
+1253,none
+1254,none
+1255,none
+1256,none
+1257,none
+1258,none
+1259,none
+1260,none
+1261,none
+1262,none
+1263,none
+1264,none
+1265,none
+1266,none
+1267,Garin Ranch
+1268,Towncenter
+1269,Penrose
+1270,none
+1271,none
+1272,none
+1273,Pippo
+1274,none
+1275,Pippo
+1276,none
+1277,none
+1278,none
+1279,none
+1280,none
+1281,none
+1282,none
+1283,none
+1284,none
+1285,none
+1286,none
+1287,none
+1288,none
+1289,none
+1290,none
+1291,none
+1292,none
+1293,none
+1294,none
+1295,none
+1296,none
+1297,none
+1298,none
+1299,none
+1300,none
+1301,none
+1302,none
+1303,none
+1304,none
+1305,none
+1306,none
+1307,none
+1308,none
+1309,none
+1310,none
+1311,none
+1312,none
+1313,none
+1314,none
+1315,none
+1316,none
+1317,none
+1318,none
+1319,Old Town
+1320,none
+1321,none
+1322,none
+1323,Old Town
+1324,none
+1325,none
+1326,none
+1327,none
+1328,none
+1329,none
+1330,none
+1331,none
+1332,none
+1333,none
+1334,none
+1335,none
+1336,none
+1337,none
+1338,none
+1339,none
+1340,none
+1341,none
+1342,none
+1343,none
+1344,none
+1345,none
+1346,none
+1347,none
+1348,none
+1349,none
+1350,none
+1351,none
+1352,none
+1353,none
+1354,none
+1355,none
+1356,none
+1357,none
+1358,none
+1359,none
+1360,none
+1361,none
+1362,none
+1363,none
+1364,none
+1365,none
+1366,none
+1367,none
+1368,none
+1369,none
+1370,none
+1371,none
+1372,none
+1373,none
+1374,Mountain View
+1375,Mountain View
+1376,Mountain View
+1377,none
+1378,none
+1379,none
+1380,none
+1381,none
+1382,none
+1383,none
+1384,none
+1385,none
+1386,none
+1387,none
+1388,none
+1389,none
+1390,none
+1391,none
+1392,none
+1393,none
+1394,none
+1395,none
+1396,none
+1397,none
+1398,none
+1399,none
+1400,none
+1401,none
+1402,none
+1403,none
+1404,none
+1405,none
+1406,Monument Corridor
+1407,none
+1408,none
+1409,none
+1410,none
+1411,none
+1412,none
+1413,none
+1414,none
+1415,none
+1416,none
+1417,none
+1418,none
+1419,none
+1420,none
+1421,none
+1422,none
+1423,none
+1424,none
+1425,Monument Corridor
+1426,none
+1427,none
+1428,none
+1429,none
+1430,none
+1431,none
+1432,none
+1433,none
+1434,none
+1435,none
+1436,none
+1437,none
+1438,none
+1439,none
+1440,none
+1441,none
+1442,none
+1443,none
+1444,Dana Estates
+1445,none
+1446,none
+1447,none
+1448,none
+1449,none
+1450,none
+1451,none
+1452,none
+1453,none
+1454,none
+1455,none
+1456,none
+1457,none
+1458,none
+1459,none
+1460,none
+1461,none
+1462,Canterbury Village
+1463,Canterbury Village
+1464,none
+1465,none
+1466,none
+1467,none
+1468,none
+1469,none
+1470,none
+1471,none
+1472,none
+1473,none
+1474,Monument Corridor
+1475,none
+1476,Monument Corridor
+1477,Monument Corridor
+1478,Monument Corridor
+1479,Monument Corridor
+1480,Monument Corridor
+1481,Monument Corridor
+1482,Monument Corridor
+1483,Monument Corridor
+1484,Monument Corridor
+1485,none
+1486,none
+1487,none
+1488,none
+1489,none
+1490,none
+1491,none
+1492,none
+1493,none
+1494,none
+1495,none
+1496,none
+1497,none
+1498,none
+1499,none
+1500,none
+1501,none
+1502,none
+1503,Monument Corridor
+1504,none
+1505,Ygnacio Valley
+1506,none
+1507,none
+1508,none
+1509,Ygnacio Valley
+1510,Ygnacio Valley
+1511,Northgate 2
+1512,San Miguel
+1513,none
+1514,none
+1515,none
+1516,none
+1517,none
+1518,none
+1519,none
+1520,none
+1521,Overlook
+1522,Overlook
+1523,Overlook
+1524,none
+1525,Saranap
+1526,Saranap
+1527,Overlook
+1528,Saranap
+1529,Saranap
+1530,none
+1531,none
+1532,none
+1533,none
+1534,Walnut Knolls
+1535,Walnut Knolls
+1536,none
+1537,none
+1538,Joaquin Ranch
+1539,none
+1540,none
+1541,none
+1542,none
+1543,none
+1544,none
+1545,none
+1546,none
+1547,none
+1548,none
+1549,none
+1550,none
+1551,none
+1552,none
+1553,none
+1554,none
+1555,none
+1556,none
+1557,none
+1558,none
+1559,none
+1560,none
+1561,none
+1562,none
+1563,none
+1564,none
+1565,none
+1566,none
+1567,none
+1568,none
+1569,none
+1570,none
+1571,none
+1572,none
+1573,none
+1574,none
+1575,none
+1576,none
+1577,none
+1578,Livorna Estates
+1579,Rudgear Estates
+1580,Livorna Estates
+1581,none
+1582,none
+1583,none
+1584,none
+1585,none
+1586,none
+1587,none
+1588,none
+1589,none
+1590,Lafayette Hills
+1591,none
+1592,none
+1593,none
+1594,none
+1595,Condit
+1596,Moraga Blvd
+1597,Stanley
+1598,none
+1599,none
+1600,none
+1601,none
+1602,Campolindo
+1603,none
+1604,Rossmoor
+1605,Rossmoor
+1606,Rossmoor
+1607,Rossmoor
+1608,Rossmoor
+1609,Rossmoor
+1610,Rossmoor
+1611,Rossmoor
+1612,Rossmoor
+1613,Stanley
+1614,none
+1615,none
+1616,Rheem Valley Manor
+1617,none
+1618,none
+1619,Larch
+1620,none
+1621,none
+1622,none
+1623,none
+1624,Sonsara
+1625,none
+1626,Alice
+1627,Northwood - Tara
+1628,Wilder
+1629,Silverwood
+1630,Monterey Ter
+1631,Monterey Ter
+1632,Glorietta
+1633,none
+1634,Claremont
+1635,none
+1636,Orinda Downs
+1637,none
+1638,none
+1639,none
+1640,none
+1641,none
+1642,none
+1643,none
+1644,none
+1645,none
+1646,none
+1647,none
+1648,none
+1649,none
+1650,none
+1651,none
+1652,none
+1653,none
+1654,none
+1655,none
+1656,none
+1657,none
+1658,none
+1659,none
+1660,none
+1661,none
+1662,none
+1663,none
+1664,none
+1665,none
+1666,none
+1667,none
+1668,none
+1669,none
+1670,none
+1671,none
+1672,none
+1673,none
+1674,none
+1675,none
+1676,none
+1677,none
+1678,none
+1679,none
+1680,none
+1681,none
+1682,none
+1683,none
+1684,none
+1685,none
+1686,none
+1687,none
+1688,none
+1689,Foxboro Downs
+1690,none
+1691,none
+1692,none
+1693,Birds
+1694,Birds
+1695,none
+1696,none
+1697,Birds
+1698,none
+1699,none
+1700,El Sobrante Hills
+1701,May Valley
+1702,May Valley
+1703,May Valley
+1704,May Valley
+1705,none
+1706,none
+1707,none
+1708,none
+1709,none
+1710,none
+1711,none
+1712,none
+1713,none
+1714,none
+1715,none
+1716,none
+1717,none
+1718,none
+1719,none
+1720,Hilltop Bayview
+1721,none
+1722,none
+1723,none
+1724,none
+1725,none
+1726,none
+1727,none
+1728,none
+1729,Hilltop Village
+1730,none
+1731,none
+1732,none
+1733,none
+1734,none
+1735,none
+1736,none
+1737,Fairmede - Hilltop
+1738,none
+1739,Fairmede - Hilltop
+1740,none
+1741,none
+1742,none
+1743,none
+1744,none
+1745,Belding Woods
+1746,none
+1747,none
+1748,none
+1749,none
+1750,none
+1751,none
+1752,none
+1753,none
+1754,East Richmond
+1755,East Richmond
+1756,none
+1757,none
+1758,North & East
+1759,North & East
+1760,North & East
+1761,North & East
+1762,North & East
+1763,North & East
+1764,none
+1765,none
+1766,North & East
+1767,North & East
+1768,North & East
+1769,North & East
+1770,Belding Woods
+1771,Belding Woods
+1772,none
+1773,North & East
+1774,North & East
+1775,North & East
+1776,North & East
+1777,Belding Woods
+1778,Belding Woods
+1779,Belding Woods
+1780,none
+1781,Iron Triangle
+1782,Iron Triangle
+1783,Iron Triangle
+1784,Iron Triangle
+1785,Iron Triangle
+1786,Coronado
+1787,Coronado
+1788,Iron Triangle
+1789,Coronado
+1790,Iron Triangle
+1791,none
+1792,Point Richmond
+1793,none
+1794,none
+1795,Pullman
+1796,Coronado
+1797,Coronado
+1798,Coronado
+1799,none
+1800,none
+1801,none
+1802,none
+1803,none
+1804,Park Plaza
+1805,Park Plaza
+1806,Pullman
+1807,Pullman
+1808,Coronado
+1809,none
+1810,Eastshore
+1811,none
+1812,Southwest Annex
+1813,Richmond Annex
+1814,Richmond Annex
+1815,Richmond Annex
+1816,none
+1817,none
+1818,none
+1819,East Richmond
+1820,none
+1821,none
+1822,none
+1823,none
+1824,none
+1825,none
+1826,none
+1827,none
+1828,none
+1829,none
+1830,none
+1831,none
+1832,Richmond Annex
+1833,none
+1834,none
+1835,none
+1836,none
+1837,none
+1838,none
+1839,none
+1840,none
+1841,none
+1842,none
+1843,none
+1844,none
+1845,Berkeley Hills
+1846,Berkeley Hills
+1847,none
+1848,none
+1849,none
+1850,none
+1851,none
+1852,none
+1853,none
+1854,none
+1855,none
+1856,none
+1857,none
+1858,none
+1859,none
+1860,none
+1861,none
+1862,none
+1863,none
+1864,none
+1865,none
+1866,none
+1867,none
+1868,none
+1869,none
+1870,none
+1871,none
+1872,none
+1873,none
+1874,none
+1875,none
+1876,none
+1877,none
+1878,none
+1879,none
+1880,Al Tahoe
+1881,Al Tahoe
+1882,Al Tahoe
+1883,Al Tahoe
+1884,none
+1885,none
+1886,none
+1887,none
+1888,none
+1889,none
+1890,none
+1891,none
+1892,none
+1893,none
+1894,none
+1895,none
+1896,none
+1897,none
+1898,none
+1899,none
+1900,none
+1901,none
+1902,none
+1903,none
+1904,none
+1905,none
+1906,none
+1907,none
+1908,none
+1909,none
+1910,none
+1911,none
+1912,none
+1913,none
+1914,none
+1915,none
+1916,none
+1917,none
+1918,none
+1919,none
+1920,none
+1921,none
+1922,none
+1923,none
+1924,none
+1925,none
+1926,none
+1927,none
+1928,none
+1929,none
+1930,none
+1931,none
+1932,none
+1933,none
+1934,none
+1935,none
+1936,none
+1937,none
+1938,none
+1939,none
+1940,none
+1941,none
+1942,none
+1943,none
+1944,none
+1945,none
+1946,none
+1947,none
+1948,none
+1949,none
+1950,none
+1951,none
+1952,none
+1953,none
+1954,none
+1955,none
+1956,none
+1957,none
+1958,none
+1959,none
+1960,none
+1961,none
+1962,none
+1963,none
+1964,none
+1965,none
+1966,none
+1967,none
+1968,none
+1969,none
+1970,none
+1971,none
+1972,none
+1973,none
+1974,none
+1975,none
+1976,none
+1977,none
+1978,none
+1979,none
+1980,none
+1981,none
+1982,none
+1983,none
+1984,none
+1985,none
+1986,Edison
+1987,Edison
+1988,Downtown
+1989,Downtown
+1990,Edison
+1991,Edison
+1992,Edison
+1993,Edison
+1994,Roosevelt
+1995,Roosevelt
+1996,Roosevelt
+1997,Roosevelt
+1998,Roosevelt
+1999,Downtown
+2000,Jefferson
+2001,Jefferson
+2002,Downtown
+2003,Downtown
+2004,Mural District
+2005,Tower District
+2006,Jefferson
+2007,Edison
+2008,Edison
+2009,Edison
+2010,Edison
+2011,Edison
+2012,Edison
+2013,Edison
+2014,Edison
+2015,Edison
+2016,Edison
+2017,Edison
+2018,Edison
+2019,Edison
+2020,Edison
+2021,Roosevelt
+2022,Edison
+2023,Edison
+2024,Roosevelt
+2025,Roosevelt
+2026,Roosevelt
+2027,Roosevelt
+2028,Roosevelt
+2029,Roosevelt
+2030,Roosevelt
+2031,Roosevelt
+2032,Roosevelt
+2033,Roosevelt
+2034,Roosevelt
+2035,McLane
+2036,Roosevelt
+2037,Roosevelt
+2038,McLane
+2039,Roosevelt
+2040,Roosevelt
+2041,Roosevelt
+2042,Roosevelt
+2043,Roosevelt
+2044,Roosevelt
+2045,Roosevelt
+2046,Roosevelt
+2047,Roosevelt
+2048,Roosevelt
+2049,Roosevelt
+2050,Roosevelt
+2051,Roosevelt
+2052,none
+2053,Southeast Growth Area
+2054,Roosevelt
+2055,none
+2056,none
+2057,none
+2058,none
+2059,none
+2060,none
+2061,none
+2062,none
+2063,Edison
+2064,none
+2065,none
+2066,none
+2067,none
+2068,none
+2069,none
+2070,Edison
+2071,West Fresno
+2072,none
+2073,none
+2074,West Fresno
+2075,West Fresno
+2076,Tower District
+2077,Tower District
+2078,Tower District
+2079,none
+2080,none
+2081,Tower District
+2082,Tower District
+2083,Tower District
+2084,Tower District
+2085,none
+2086,Jefferson
+2087,Tower District
+2088,none
+2089,none
+2090,Jefferson
+2091,Jefferson
+2092,none
+2093,Roosevelt
+2094,Roosevelt
+2095,Roosevelt
+2096,Roosevelt
+2097,Roosevelt
+2098,Roosevelt
+2099,Roosevelt
+2100,Roosevelt
+2101,Roosevelt
+2102,Roosevelt
+2103,Roosevelt
+2104,Roosevelt
+2105,Roosevelt
+2106,Roosevelt
+2107,Roosevelt
+2108,Roosevelt
+2109,Roosevelt
+2110,Roosevelt
+2111,Roosevelt
+2112,Roosevelt
+2113,Roosevelt
+2114,Roosevelt
+2115,Roosevelt
+2116,Roosevelt
+2117,Roosevelt
+2118,Roosevelt
+2119,Roosevelt
+2120,Roosevelt
+2121,Roosevelt
+2122,Roosevelt
+2123,none
+2124,none
+2125,McLane
+2126,none
+2127,none
+2128,none
+2129,none
+2130,none
+2131,none
+2132,none
+2133,none
+2134,none
+2135,none
+2136,none
+2137,McLane
+2138,McLane
+2139,McLane
+2140,McLane
+2141,McLane
+2142,McLane
+2143,McLane
+2144,McLane
+2145,McLane
+2146,McLane
+2147,McLane
+2148,McLane
+2149,McLane
+2150,McLane
+2151,none
+2152,none
+2153,Fig Garden
+2154,none
+2155,none
+2156,none
+2157,none
+2158,none
+2159,none
+2160,none
+2161,none
+2162,none
+2163,none
+2164,none
+2165,none
+2166,none
+2167,West Fresno
+2168,West Fresno
+2169,West Fresno
+2170,West Fresno
+2171,West Fresno
+2172,West Fresno
+2173,West Fresno
+2174,West Fresno
+2175,West Fresno
+2176,West Fresno
+2177,West Fresno
+2178,West Fresno
+2179,West Fresno
+2180,none
+2181,none
+2182,none
+2183,none
+2184,none
+2185,none
+2186,none
+2187,none
+2188,none
+2189,none
+2190,none
+2191,none
+2192,none
+2193,none
+2194,none
+2195,West Fresno
+2196,West Fresno
+2197,none
+2198,none
+2199,none
+2200,none
+2201,none
+2202,none
+2203,none
+2204,none
+2205,none
+2206,none
+2207,none
+2208,none
+2209,none
+2210,none
+2211,none
+2212,none
+2213,none
+2214,none
+2215,none
+2216,none
+2217,none
+2218,none
+2219,none
+2220,none
+2221,none
+2222,none
+2223,none
+2224,none
+2225,none
+2226,none
+2227,none
+2228,none
+2229,none
+2230,none
+2231,none
+2232,none
+2233,none
+2234,none
+2235,none
+2236,none
+2237,none
+2238,none
+2239,none
+2240,none
+2241,none
+2242,none
+2243,none
+2244,none
+2245,none
+2246,none
+2247,none
+2248,none
+2249,Fig Garden
+2250,none
+2251,none
+2252,none
+2253,none
+2254,none
+2255,none
+2256,none
+2257,none
+2258,none
+2259,none
+2260,none
+2261,none
+2262,none
+2263,none
+2264,none
+2265,none
+2266,none
+2267,none
+2268,none
+2269,none
+2270,Fig Garden
+2271,none
+2272,Fig Garden
+2273,none
+2274,none
+2275,none
+2276,none
+2277,McLane
+2278,McLane
+2279,none
+2280,none
+2281,McLane
+2282,McLane
+2283,McLane
+2284,McLane
+2285,McLane
+2286,McLane
+2287,McLane
+2288,none
+2289,none
+2290,none
+2291,none
+2292,none
+2293,none
+2294,none
+2295,none
+2296,none
+2297,none
+2298,none
+2299,none
+2300,none
+2301,none
+2302,none
+2303,none
+2304,none
+2305,none
+2306,none
+2307,none
+2308,none
+2309,North Growth Area
+2310,none
+2311,none
+2312,none
+2313,none
+2314,none
+2315,none
+2316,none
+2317,none
+2318,none
+2319,none
+2320,none
+2321,none
+2322,none
+2323,none
+2324,none
+2325,none
+2326,none
+2327,none
+2328,none
+2329,none
+2330,none
+2331,none
+2332,none
+2333,none
+2334,none
+2335,none
+2336,none
+2337,none
+2338,none
+2339,none
+2340,none
+2341,none
+2342,none
+2343,none
+2344,none
+2345,none
+2346,none
+2347,none
+2348,none
+2349,none
+2350,McLane
+2351,none
+2352,McLane
+2353,none
+2354,McLane
+2355,none
+2356,Loma Vista
+2357,Loma Vista
+2358,Southeast Growth Area
+2359,none
+2360,none
+2361,none
+2362,none
+2363,none
+2364,none
+2365,none
+2366,none
+2367,none
+2368,none
+2369,none
+2370,none
+2371,none
+2372,none
+2373,none
+2374,none
+2375,none
+2376,none
+2377,none
+2378,none
+2379,none
+2380,none
+2381,none
+2382,none
+2383,none
+2384,none
+2385,none
+2386,none
+2387,none
+2388,none
+2389,none
+2390,none
+2391,none
+2392,none
+2393,none
+2394,none
+2395,none
+2396,none
+2397,none
+2398,none
+2399,none
+2400,none
+2401,none
+2402,none
+2403,none
+2404,none
+2405,none
+2406,none
+2407,none
+2408,none
+2409,none
+2410,none
+2411,none
+2412,none
+2413,none
+2414,none
+2415,none
+2416,none
+2417,none
+2418,none
+2419,none
+2420,none
+2421,none
+2422,none
+2423,none
+2424,none
+2425,none
+2426,none
+2427,none
+2428,none
+2429,none
+2430,none
+2431,none
+2432,none
+2433,none
+2434,none
+2435,none
+2436,none
+2437,none
+2438,none
+2439,none
+2440,none
+2441,none
+2442,none
+2443,none
+2444,none
+2445,none
+2446,none
+2447,none
+2448,none
+2449,none
+2450,none
+2451,none
+2452,none
+2453,none
+2454,none
+2455,none
+2456,none
+2457,none
+2458,none
+2459,none
+2460,none
+2461,none
+2462,none
+2463,none
+2464,none
+2465,none
+2466,none
+2467,none
+2468,none
+2469,none
+2470,none
+2471,none
+2472,none
+2473,none
+2474,none
+2475,none
+2476,none
+2477,none
+2478,none
+2479,none
+2480,none
+2481,none
+2482,none
+2483,none
+2484,none
+2485,none
+2486,none
+2487,none
+2488,none
+2489,none
+2490,none
+2491,none
+2492,none
+2493,none
+2494,none
+2495,none
+2496,none
+2497,none
+2498,none
+2499,none
+2500,none
+2501,none
+2502,none
+2503,none
+2504,none
+2505,none
+2506,none
+2507,none
+2508,none
+2509,none
+2510,none
+2511,none
+2512,none
+2513,none
+2514,none
+2515,none
+2516,none
+2517,none
+2518,none
+2519,none
+2520,none
+2521,none
+2522,none
+2523,none
+2524,none
+2525,none
+2526,none
+2527,none
+2528,none
+2529,none
+2530,none
+2531,none
+2532,none
+2533,none
+2534,none
+2535,none
+2536,none
+2537,Downtown
+2538,Greenside Park
+2539,none
+2540,Downtown
+2541,Downtown
+2542,none
+2543,none
+2544,none
+2545,none
+2546,none
+2547,none
+2548,none
+2549,none
+2550,none
+2551,none
+2552,none
+2553,none
+2554,none
+2555,none
+2556,Lundbar Hills
+2557,none
+2558,Downtown
+2559,none
+2560,none
+2561,Greenside Park
+2562,Greenside Park
+2563,none
+2564,none
+2565,none
+2566,none
+2567,none
+2568,none
+2569,none
+2570,none
+2571,none
+2572,Freshwater
+2573,none
+2574,none
+2575,none
+2576,none
+2577,Jacoby Creek
+2578,Jacoby Creek
+2579,Jacoby Creek
+2580,none
+2581,none
+2582,none
+2583,none
+2584,none
+2585,none
+2586,none
+2587,Pacific
+2588,none
+2589,none
+2590,none
+2591,Pacific
+2592,none
+2593,none
+2594,none
+2595,Pacific
+2596,none
+2597,none
+2598,none
+2599,none
+2600,none
+2601,none
+2602,none
+2603,none
+2604,none
+2605,none
+2606,Fieldbrook
+2607,none
+2608,none
+2609,none
+2610,none
+2611,none
+2612,none
+2613,none
+2614,none
+2615,none
+2616,none
+2617,none
+2618,none
+2619,none
+2620,none
+2621,none
+2622,Freshwater
+2623,Garfield
+2624,none
+2625,none
+2626,none
+2627,none
+2628,none
+2629,none
+2630,none
+2631,none
+2632,none
+2633,none
+2634,none
+2635,none
+2636,none
+2637,none
+2638,none
+2639,none
+2640,none
+2641,none
+2642,none
+2643,Rohnerville
+2644,Rohnerville
+2645,Rohnerville
+2646,Rohnerville
+2647,none
+2648,none
+2649,none
+2650,none
+2651,none
+2652,none
+2653,none
+2654,none
+2655,none
+2656,none
+2657,none
+2658,none
+2659,none
+2660,none
+2661,none
+2662,none
+2663,none
+2664,none
+2665,none
+2666,none
+2667,none
+2668,none
+2669,none
+2670,none
+2671,none
+2672,none
+2673,none
+2674,none
+2675,none
+2676,none
+2677,none
+2678,none
+2679,none
+2680,none
+2681,none
+2682,none
+2683,none
+2684,none
+2685,none
+2686,none
+2687,none
+2688,none
+2689,none
+2690,none
+2691,none
+2692,none
+2693,none
+2694,none
+2695,none
+2696,none
+2697,none
+2698,none
+2699,none
+2700,none
+2701,none
+2702,none
+2703,none
+2704,none
+2705,none
+2706,none
+2707,none
+2708,none
+2709,none
+2710,none
+2711,none
+2712,none
+2713,none
+2714,none
+2715,none
+2716,none
+2717,none
+2718,none
+2719,none
+2720,none
+2721,none
+2722,none
+2723,none
+2724,none
+2725,none
+2726,none
+2727,none
+2728,none
+2729,none
+2730,none
+2731,none
+2732,none
+2733,none
+2734,none
+2735,none
+2736,none
+2737,none
+2738,none
+2739,none
+2740,none
+2741,none
+2742,none
+2743,none
+2744,none
+2745,none
+2746,none
+2747,none
+2748,none
+2749,none
+2750,none
+2751,none
+2752,none
+2753,none
+2754,none
+2755,none
+2756,none
+2757,none
+2758,none
+2759,none
+2760,none
+2761,none
+2762,none
+2763,none
+2764,none
+2765,none
+2766,none
+2767,none
+2768,none
+2769,none
+2770,none
+2771,none
+2772,none
+2773,none
+2774,none
+2775,none
+2776,none
+2777,none
+2778,none
+2779,none
+2780,none
+2781,none
+2782,none
+2783,none
+2784,none
+2785,none
+2786,none
+2787,none
+2788,none
+2789,none
+2790,none
+2791,none
+2792,none
+2793,none
+2794,none
+2795,none
+2796,none
+2797,none
+2798,none
+2799,none
+2800,none
+2801,North Country Meadows
+2802,North Country Meadows
+2803,none
+2804,none
+2805,none
+2806,none
+2807,none
+2808,none
+2809,none
+2810,North Country Meadows
+2811,none
+2812,none
+2813,none
+2814,none
+2815,Mobile Town
+2816,Mobile Town
+2817,none
+2818,none
+2819,Mobile Town
+2820,none
+2821,none
+2822,Olive Drive area
+2823,Olive Drive area
+2824,Fruitvale
+2825,Hampton Woods
+2826,none
+2827,San Lauren
+2828,South San Lauren
+2829,Homaker Park
+2830,none
+2831,Downtown
+2832,none
+2833,La Cresta/Alta Vista
+2834,La Cresta/Alta Vista
+2835,Baker Street
+2836,Baker Street
+2837,Baker Street
+2838,none
+2839,none
+2840,none
+2841,none
+2842,none
+2843,none
+2844,none
+2845,none
+2846,none
+2847,none
+2848,none
+2849,Hillcrest
+2850,Hillcrest
+2851,Hillcrest
+2852,Bakersfield Country Club
+2853,Hillcrest
+2854,none
+2855,none
+2856,none
+2857,Bakersfield Country Club
+2858,Bakersfield Country Club
+2859,none
+2860,none
+2861,Morning Star
+2862,none
+2863,none
+2864,none
+2865,none
+2866,none
+2867,none
+2868,none
+2869,none
+2870,none
+2871,none
+2872,none
+2873,none
+2874,East Bakersfield
+2875,East Bakersfield
+2876,none
+2877,East Bakersfield
+2878,none
+2879,East Bakersfield
+2880,none
+2881,none
+2882,none
+2883,none
+2884,none
+2885,none
+2886,none
+2887,none
+2888,none
+2889,none
+2890,none
+2891,none
+2892,none
+2893,none
+2894,none
+2895,none
+2896,Downtown
+2897,Downtown
+2898,Downtown
+2899,Downtown
+2900,Downtown
+2901,Downtown
+2902,none
+2903,Downtown
+2904,Riviera/Westchester
+2905,Riviera/Westchester
+2906,Riviera/Westchester
+2907,Riviera/Westchester
+2908,Riviera/Westchester
+2909,West Park Community
+2910,West Park Community
+2911,West Park Community
+2912,Park Stockdale
+2913,Quailwood
+2914,West Park Community
+2915,Riviera/Westchester
+2916,Oleander/Sunset
+2917,West Park Community
+2918,Riviera/Westchester
+2919,Downtown
+2920,Oleander/Sunset
+2921,Oleander/Sunset
+2922,Oleander/Sunset
+2923,Downtown
+2924,Oleander/Sunset
+2925,Oleander/Sunset
+2926,Oleander/Sunset
+2927,Downtown
+2928,Lakeview
+2929,Lakeview
+2930,Casa Loma
+2931,Lakeview
+2932,none
+2933,Lakeview
+2934,Lakeview
+2935,Lakeview
+2936,Lakeview
+2937,Oakridge
+2938,Oakridge
+2939,none
+2940,Oakridge
+2941,none
+2942,none
+2943,none
+2944,Cottonwood
+2945,Cottonwood
+2946,none
+2947,none
+2948,Casa Loma
+2949,Cottonwood
+2950,Southgate
+2951,Southgate
+2952,Southgate
+2953,Southgate
+2954,Southgate
+2955,Southgate
+2956,Benton Park
+2957,Benton Park
+2958,none
+2959,none
+2960,none
+2961,none
+2962,none
+2963,none
+2964,Kern City
+2965,Kern City
+2966,Seven Oaks
+2967,none
+2968,Amberton
+2969,Olde Stockdale
+2970,Stockdale Country Club
+2971,Amberton
+2972,Amberton
+2973,The Oaks
+2974,Laurel Glen
+2975,Laurel Glen
+2976,Spice Tract
+2977,Sagepointe
+2978,Spice Tract
+2979,Southgate
+2980,none
+2981,none
+2982,Benton Park
+2983,Southgate
+2984,none
+2985,none
+2986,none
+2987,none
+2988,Southgate
+2989,none
+2990,Rexland Acres
+2991,Rexland Acres
+2992,Silver Creek
+2993,none
+2994,none
+2995,none
+2996,none
+2997,none
+2998,none
+2999,none
+3000,none
+3001,none
+3002,none
+3003,none
+3004,none
+3005,none
+3006,none
+3007,Greenfield
+3008,none
+3009,none
+3010,none
+3011,none
+3012,none
+3013,none
+3014,none
+3015,none
+3016,none
+3017,none
+3018,none
+3019,none
+3020,none
+3021,none
+3022,none
+3023,none
+3024,none
+3025,none
+3026,none
+3027,none
+3028,none
+3029,none
+3030,none
+3031,Crystal Ranch
+3032,Polo Grounds
+3033,Polo Grounds
+3034,Rosedale
+3035,Rosedale
+3036,Greenacres
+3037,Greenacres
+3038,Westdale Classics
+3039,none
+3040,none
+3041,none
+3042,none
+3043,none
+3044,none
+3045,none
+3046,none
+3047,none
+3048,none
+3049,none
+3050,none
+3051,none
+3052,none
+3053,none
+3054,none
+3055,none
+3056,none
+3057,none
+3058,none
+3059,none
+3060,none
+3061,none
+3062,none
+3063,none
+3064,none
+3065,none
+3066,none
+3067,none
+3068,none
+3069,none
+3070,none
+3071,none
+3072,none
+3073,none
+3074,none
+3075,none
+3076,none
+3077,none
+3078,none
+3079,none
+3080,none
+3081,none
+3082,none
+3083,none
+3084,none
+3085,none
+3086,none
+3087,none
+3088,none
+3089,none
+3090,none
+3091,none
+3092,none
+3093,none
+3094,none
+3095,none
+3096,none
+3097,none
+3098,none
+3099,none
+3100,none
+3101,none
+3102,none
+3103,none
+3104,none
+3105,none
+3106,none
+3107,none
+3108,none
+3109,Ridgecrest Heights
+3110,none
+3111,none
+3112,none
+3113,none
+3114,none
+3115,none
+3116,none
+3117,none
+3118,none
+3119,none
+3120,none
+3121,none
+3122,none
+3123,none
+3124,none
+3125,none
+3126,none
+3127,none
+3128,none
+3129,none
+3130,none
+3131,none
+3132,none
+3133,none
+3134,none
+3135,none
+3136,none
+3137,none
+3138,none
+3139,none
+3140,none
+3141,none
+3142,none
+3143,none
+3144,none
+3145,none
+3146,none
+3147,none
+3148,none
+3149,none
+3150,none
+3151,none
+3152,none
+3153,none
+3154,none
+3155,none
+3156,none
+3157,none
+3158,none
+3159,none
+3160,none
+3161,none
+3162,none
+3163,none
+3164,none
+3165,none
+3166,none
+3167,none
+3168,none
+3169,none
+3170,none
+3171,none
+3172,none
+3173,none
+3174,none
+3175,none
+3176,none
+3177,none
+3178,none
+3179,none
+3180,none
+3181,none
+3182,none
+3183,none
+3184,none
+3185,none
+3186,none
+3187,none
+3188,none
+3189,none
+3190,none
+3191,none
+3192,none
+3193,none
+3194,none
+3195,none
+3196,none
+3197,none
+3198,none
+3199,none
+3200,none
+3201,none
+3202,none
+3203,none
+3204,none
+3205,none
+3206,none
+3207,none
+3208,none
+3209,none
+3210,none
+3211,none
+3212,none
+3213,none
+3214,none
+3215,none
+3216,none
+3217,none
+3218,none
+3219,none
+3220,none
+3221,none
+3222,none
+3223,none
+3224,none
+3225,none
+3226,none
+3227,none
+3228,none
+3229,none
+3230,none
+3231,none
+3232,none
+3233,none
+3234,none
+3235,none
+3236,none
+3237,none
+3238,none
+3239,none
+3240,none
+3241,none
+3242,none
+3243,none
+3244,none
+3245,none
+3246,none
+3247,none
+3248,none
+3249,none
+3250,none
+3251,none
+3252,none
+3253,none
+3254,none
+3255,none
+3256,none
+3257,none
+3258,none
+3259,none
+3260,none
+3261,none
+3262,none
+3263,none
+3264,none
+3265,none
+3266,none
+3267,none
+3268,none
+3269,none
+3270,none
+3271,none
+3272,none
+3273,none
+3274,none
+3275,none
+3276,none
+3277,none
+3278,none
+3279,none
+3280,none
+3281,none
+3282,none
+3283,none
+3284,none
+3285,none
+3286,none
+3287,none
+3288,none
+3289,none
+3290,none
+3291,none
+3292,none
+3293,none
+3294,none
+3295,none
+3296,none
+3297,none
+3298,none
+3299,none
+3300,none
+3301,none
+3302,none
+3303,none
+3304,none
+3305,none
+3306,none
+3307,none
+3308,none
+3309,none
+3310,none
+3311,none
+3312,none
+3313,none
+3314,none
+3315,none
+3316,none
+3317,none
+3318,none
+3319,none
+3320,none
+3321,none
+3322,none
+3323,none
+3324,none
+3325,none
+3326,none
+3327,none
+3328,none
+3329,none
+3330,none
+3331,none
+3332,none
+3333,none
+3334,none
+3335,none
+3336,none
+3337,none
+3338,none
+3339,none
+3340,none
+3341,none
+3342,none
+3343,none
+3344,none
+3345,none
+3346,none
+3347,none
+3348,none
+3349,none
+3350,none
+3351,none
+3352,none
+3353,none
+3354,none
+3355,none
+3356,none
+3357,none
+3358,none
+3359,none
+3360,none
+3361,none
+3362,none
+3363,none
+3364,none
+3365,none
+3366,none
+3367,none
+3368,none
+3369,Tujunga
+3370,Tujunga
+3371,Tujunga
+3372,Tujunga
+3373,Tujunga
+3374,Tujunga
+3375,Tujunga
+3376,Tujunga
+3377,Tujunga
+3378,Tujunga
+3379,Tujunga
+3380,Tujunga
+3381,Tujunga
+3382,Tujunga
+3383,Tujunga
+3384,Tujunga
+3385,Tujunga
+3386,Sun Valley
+3387,none
+3388,none
+3389,Sun Valley
+3390,Sun Valley
+3391,none
+3392,Sunland-Tujunga
+3393,Tujunga
+3394,Tujunga
+3395,Sunland-Tujunga
+3396,Sunland-Tujunga
+3397,Sunland-Tujunga
+3398,Sunland-Tujunga
+3399,none
+3400,none
+3401,Lake View Terrace
+3402,none
+3403,none
+3404,none
+3405,Tujunga
+3406,Tujunga
+3407,Sunland-Tujunga
+3408,Sunland-Tujunga
+3409,Sunland-Tujunga
+3410,Lake View Terrace
+3411,Lake View Terrace
+3412,Pacoima
+3413,Lake View Terrace
+3414,Pacoima
+3415,Pacoima
+3416,Pacoima
+3417,Pacoima
+3418,Pacoima
+3419,Pacoima
+3420,Pacoima
+3421,Pacoima
+3422,Pacoima
+3423,Pacoima
+3424,none
+3425,Pacoima
+3426,Pacoima
+3427,Pacoima
+3428,Pacoima
+3429,Pacoima
+3430,Pacoima
+3431,Pacoima
+3432,Pacoima
+3433,Arleta
+3434,Pacoima
+3435,Pacoima
+3436,Pacoima
+3437,Pacoima
+3438,Pacoima
+3439,Pacoima
+3440,Pacoima
+3441,Pacoima
+3442,Pacoima
+3443,Pacoima
+3444,Pacoima
+3445,Pacoima
+3446,Panorama City
+3447,Pacoima
+3448,Sylmar
+3449,Sylmar
+3450,Sylmar
+3451,Sylmar
+3452,Sylmar
+3453,Sylmar
+3454,Sylmar
+3455,Sylmar
+3456,Sylmar
+3457,Sylmar
+3458,Sylmar
+3459,Sylmar
+3460,Sylmar
+3461,Sylmar
+3462,Sylmar
+3463,Sylmar
+3464,Sylmar
+3465,Sylmar
+3466,none
+3467,Sylmar
+3468,Sylmar
+3469,Sylmar
+3470,Granada Hills North
+3471,Granada Hills North
+3472,Granada Hills North
+3473,Granada Hills North
+3474,Granada Hills North
+3475,none
+3476,Granada Hills North
+3477,Granada Hills North
+3478,Granada Hills North
+3479,Granada Hills North
+3480,Granada Hills North
+3481,Sylmar
+3482,Sylmar
+3483,Porter Ranch
+3484,Porter Ranch
+3485,Porter Ranch
+3486,none
+3487,Porter Ranch
+3488,none
+3489,Mission Hills
+3490,Mission Hills
+3491,Granada Hills North
+3492,Granada Hills North
+3493,Mission Hills
+3494,Mission Hills
+3495,Mission Hills
+3496,Mission Hills
+3497,Mission Hills
+3498,Mission Hills
+3499,Mission Hills
+3500,Mission Hills
+3501,Pacoima
+3502,Pacoima
+3503,Mission Hills
+3504,Arleta
+3505,Mission Hills
+3506,Mission Hills
+3507,Mission Hills
+3508,North Hills East
+3509,North Hills East
+3510,Mission Hills
+3511,Mission Hills
+3512,Mission Hills
+3513,Granada Hills South
+3514,North Hills East
+3515,North Hills West
+3516,North Hills West
+3517,North Hills West
+3518,North Hills West
+3519,Granada Hills South
+3520,Granada Hills South
+3521,Granada Hills South
+3522,Granada Hills North
+3523,Granada Hills North
+3524,Granada Hills South
+3525,Granada Hills South
+3526,Granada Hills South
+3527,Porter Ranch
+3528,Porter Ranch
+3529,Porter Ranch
+3530,Porter Ranch
+3531,Porter Ranch
+3532,Porter Ranch
+3533,Porter Ranch
+3534,Porter Ranch
+3535,Granada Hills South
+3536,Granada Hills South
+3537,Granada Hills South
+3538,Northridge
+3539,Granada Hills South
+3540,North Hills West
+3541,Chatsworth
+3542,Chatsworth
+3543,Chatsworth
+3544,Chatsworth
+3545,Chatsworth
+3546,Chatsworth
+3547,Chatsworth
+3548,West Hills
+3549,West Hills
+3550,none
+3551,West Hills
+3552,West Hills
+3553,Canoga Park
+3554,Canoga Park
+3555,Northridge
+3556,Northridge
+3557,Chatsworth
+3558,Chatsworth
+3559,Chatsworth
+3560,Chatsworth
+3561,Chatsworth
+3562,Winnetka
+3563,Winnetka
+3564,Winnetka
+3565,Winnetka
+3566,Canoga Park
+3567,Winnetka
+3568,Winnetka
+3569,Canoga Park
+3570,Northridge
+3571,Northridge
+3572,Northridge
+3573,Northridge
+3574,Northridge
+3575,Northridge
+3576,Northridge
+3577,Northridge
+3578,Northridge
+3579,Northridge
+3580,Northridge
+3581,Northridge
+3582,Northridge
+3583,Northridge
+3584,Reseda
+3585,Northridge
+3586,Reseda
+3587,Northridge
+3588,Arleta
+3589,North Hills East
+3590,North Hills East
+3591,North Hills East
+3592,North Hills West
+3593,North Hills West
+3594,North Hills West
+3595,North Hills West
+3596,Northridge
+3597,Northridge
+3598,Northridge
+3599,Northridge
+3600,North Hills West
+3601,Northridge
+3602,North Hills East
+3603,North Hills West
+3604,North Hills West
+3605,North Hills West
+3606,North Hills East
+3607,North Hills East
+3608,Arleta
+3609,Panorama City
+3610,Arleta
+3611,Panorama City
+3612,Sun Valley
+3613,Pacoima
+3614,Arleta
+3615,Arleta
+3616,Arleta
+3617,Arleta
+3618,Arleta
+3619,Arleta
+3620,Arleta
+3621,Panorama City
+3622,Arleta
+3623,Arleta
+3624,Arleta
+3625,Arleta
+3626,Arleta
+3627,Arleta
+3628,Panorama City
+3629,Panorama City
+3630,Panorama City
+3631,Arleta
+3632,Panorama City
+3633,Panorama City
+3634,Panorama City
+3635,Arleta
+3636,Panorama City
+3637,Panorama City
+3638,Panorama City
+3639,Panorama City
+3640,Panorama City
+3641,North Hills East
+3642,North Hills East
+3643,North Hills East
+3644,North Hills East
+3645,Panorama City
+3646,North Hills East
+3647,North Hills East
+3648,Panorama City
+3649,Van Nuys
+3650,Van Nuys
+3651,Panorama City
+3652,Panorama City
+3653,Panorama City
+3654,Panorama City
+3655,Sun Valley
+3656,Sun Valley
+3657,Sun Valley
+3658,Sun Valley
+3659,Sun Valley
+3660,Sun Valley
+3661,Lake View Terrace
+3662,Sun Valley
+3663,Sun Valley
+3664,Sun Valley
+3665,Sun Valley
+3666,Sun Valley
+3667,Sun Valley
+3668,Sun Valley
+3669,Sun Valley
+3670,Sun Valley
+3671,Sun Valley
+3672,Sun Valley
+3673,Sun Valley
+3674,Sun Valley
+3675,Sun Valley
+3676,Sun Valley
+3677,Sun Valley
+3678,Sun Valley
+3679,Panorama City
+3680,Panorama City
+3681,Valley Glen
+3682,Panorama City
+3683,Sun Valley
+3684,Sun Valley
+3685,Sun Valley
+3686,Sun Valley
+3687,Sun Valley
+3688,none
+3689,Sun Valley
+3690,none
+3691,North Hollywood
+3692,Sun Valley
+3693,North Hollywood
+3694,North Hollywood
+3695,Sun Valley
+3696,North Hollywood
+3697,Sun Valley
+3698,North Hollywood
+3699,none
+3700,North Hollywood
+3701,North Hollywood
+3702,North Hollywood
+3703,North Hollywood
+3704,North Hollywood
+3705,North Hollywood
+3706,North Hollywood
+3707,North Hollywood
+3708,North Hollywood
+3709,North Hollywood
+3710,North Hollywood
+3711,North Hollywood
+3712,North Hollywood
+3713,North Hollywood
+3714,Valley Glen
+3715,Valley Glen
+3716,Valley Glen
+3717,Valley Glen
+3718,Valley Glen
+3719,Valley Glen
+3720,Valley Glen
+3721,Valley Glen
+3722,Valley Glen
+3723,Valley Glen
+3724,Valley Glen
+3725,Valley Glen
+3726,Valley Glen
+3727,Valley Glen
+3728,Valley Glen
+3729,Valley Glen
+3730,Valley Glen
+3731,Valley Glen
+3732,Valley Glen
+3733,North Hollywood
+3734,North Hollywood
+3735,Valley Glen
+3736,Valley Village
+3737,North Hollywood
+3738,North Hollywood
+3739,Valley Village
+3740,North Hollywood
+3741,North Hollywood
+3742,Valley Village
+3743,Valley Village
+3744,Valley Village
+3745,Valley Village
+3746,Valley Village
+3747,North Hollywood
+3748,North Hollywood
+3749,North Hollywood
+3750,North Hollywood
+3751,North Hollywood
+3752,Valley Village
+3753,North Hollywood
+3754,North Hollywood
+3755,North Hollywood
+3756,North Hollywood
+3757,North Hollywood
+3758,North Hollywood
+3759,North Hollywood
+3760,North Hollywood
+3761,NoHo Arts District
+3762,Valley Glen
+3763,Valley Village
+3764,Valley Glen
+3765,Sherman Oaks
+3766,Sherman Oaks
+3767,Sherman Oaks
+3768,Sherman Oaks
+3769,Sherman Oaks
+3770,Sherman Oaks
+3771,Studio City
+3772,Sherman Oaks
+3773,Sherman Oaks
+3774,Valley Village
+3775,Sherman Oaks
+3776,Valley Village
+3777,Valley Village
+3778,Valley Village
+3779,Valley Village
+3780,Valley Village
+3781,Valley Village
+3782,North Hollywood
+3783,none
+3784,none
+3785,North Hollywood
+3786,NoHo Arts District
+3787,NoHo Arts District
+3788,NoHo Arts District
+3789,NoHo Arts District
+3790,NoHo Arts District
+3791,NoHo Arts District
+3792,NoHo Arts District
+3793,NoHo Arts District
+3794,Toluca Woods
+3795,Toluca Woods
+3796,NoHo Arts District
+3797,NoHo Arts District
+3798,Toluca Woods
+3799,Toluca Woods
+3800,Toluca Lake
+3801,Valley Glen
+3802,Panorama City
+3803,Van Nuys
+3804,Van Nuys
+3805,Van Nuys
+3806,Van Nuys
+3807,Van Nuys
+3808,Van Nuys
+3809,Van Nuys
+3810,Van Nuys
+3811,North Hills West
+3812,Lake Balboa
+3813,North Hills West
+3814,Northridge
+3815,Lake Balboa
+3816,none
+3817,Lake Balboa
+3818,Lake Balboa
+3819,Lake Balboa
+3820,Lake Balboa
+3821,Lake Balboa
+3822,Van Nuys
+3823,Van Nuys
+3824,Van Nuys
+3825,Van Nuys
+3826,Van Nuys
+3827,Van Nuys
+3828,Van Nuys
+3829,Van Nuys
+3830,Valley Glen
+3831,Van Nuys
+3832,Van Nuys
+3833,Van Nuys
+3834,Valley Glen
+3835,Van Nuys
+3836,Van Nuys
+3837,Van Nuys
+3838,Valley Glen
+3839,Van Nuys
+3840,Van Nuys
+3841,Van Nuys
+3842,Van Nuys
+3843,Van Nuys
+3844,Van Nuys
+3845,Van Nuys
+3846,Van Nuys
+3847,Van Nuys
+3848,Van Nuys
+3849,Van Nuys
+3850,Van Nuys
+3851,Sherman Oaks
+3852,Van Nuys
+3853,Valley Glen
+3854,Van Nuys
+3855,Sherman Oaks
+3856,Sherman Oaks
+3857,Sherman Oaks
+3858,Sherman Oaks
+3859,Sherman Oaks
+3860,Sherman Oaks
+3861,Sherman Oaks
+3862,Sherman Oaks
+3863,Sherman Oaks
+3864,Sherman Oaks
+3865,Sherman Oaks
+3866,Sherman Oaks
+3867,Sherman Oaks
+3868,Sherman Oaks
+3869,Sherman Oaks
+3870,Reseda
+3871,Reseda
+3872,Reseda
+3873,Reseda
+3874,Reseda
+3875,Northridge
+3876,Northridge
+3877,Northridge
+3878,Northridge
+3879,Northridge
+3880,Northridge
+3881,Reseda
+3882,Reseda
+3883,Reseda
+3884,Reseda
+3885,Reseda
+3886,Reseda
+3887,Reseda
+3888,Reseda
+3889,Reseda
+3890,Reseda
+3891,Reseda
+3892,Reseda
+3893,Reseda
+3894,Reseda
+3895,Northridge
+3896,Lake Balboa
+3897,Lake Balboa
+3898,Reseda
+3899,Lake Balboa
+3900,Lake Balboa
+3901,Lake Balboa
+3902,Lake Balboa
+3903,Lake Balboa
+3904,Lake Balboa
+3905,Lake Balboa
+3906,Lake Balboa
+3907,Reseda
+3908,Reseda
+3909,Reseda
+3910,Reseda
+3911,Reseda
+3912,Reseda
+3913,Reseda
+3914,Reseda
+3915,Reseda
+3916,Reseda
+3917,Encino
+3918,Tarzana
+3919,Reseda
+3920,Reseda
+3921,Reseda
+3922,Reseda
+3923,Reseda
+3924,Tarzana
+3925,Reseda
+3926,Tarzana
+3927,Reseda
+3928,Reseda
+3929,Winnetka
+3930,Canoga Park
+3931,Canoga Park
+3932,Winnetka
+3933,Winnetka
+3934,Winnetka
+3935,Winnetka
+3936,Winnetka
+3937,Winnetka
+3938,Winnetka
+3939,Canoga Park
+3940,Canoga Park
+3941,Canoga Park
+3942,Canoga Park
+3943,West Hills
+3944,West Hills
+3945,West Hills
+3946,Canoga Park
+3947,Canoga Park
+3948,Canoga Park
+3949,West Hills
+3950,West Hills
+3951,West Hills
+3952,West Hills
+3953,West Hills
+3954,West Hills
+3955,West Hills
+3956,Canoga Park
+3957,Canoga Park
+3958,Canoga Park
+3959,Canoga Park
+3960,Reseda
+3961,Winnetka
+3962,Winnetka
+3963,Winnetka
+3964,Reseda
+3965,Winnetka
+3966,Winnetka
+3967,Winnetka
+3968,Winnetka
+3969,Reseda
+3970,Winnetka
+3971,Winnetka
+3972,Winnetka
+3973,Woodland Hills
+3974,West Hills
+3975,Woodland Hills
+3976,West Hills
+3977,Canoga Park
+3978,Warner Center
+3979,Warner Center
+3980,Warner Center
+3981,West Hills
+3982,Woodland Hills
+3983,West Hills
+3984,West Hills
+3985,Woodland Hills
+3986,West Hills
+3987,Woodland Hills
+3988,West Hills
+3989,none
+3990,Woodland Hills
+3991,Woodland Hills
+3992,Woodland Hills
+3993,Woodland Hills
+3994,Woodland Hills
+3995,Woodland Hills
+3996,Woodland Hills
+3997,Woodland Hills
+3998,Woodland Hills
+3999,Woodland Hills
+4000,Woodland Hills
+4001,Woodland Hills
+4002,Woodland Hills
+4003,Woodland Hills
+4004,Woodland Hills
+4005,Woodland Hills
+4006,Woodland Hills
+4007,Woodland Hills
+4008,Woodland Hills
+4009,Warner Center
+4010,Woodland Hills
+4011,Woodland Hills
+4012,Tarzana
+4013,Tarzana
+4014,Woodland Hills
+4015,Woodland Hills
+4016,Woodland Hills
+4017,Woodley
+4018,Encino
+4019,Encino
+4020,Encino
+4021,Encino
+4022,Encino
+4023,Tarzana
+4024,Tarzana
+4025,Tarzana
+4026,Tarzana
+4027,Tarzana
+4028,Tarzana
+4029,Tarzana
+4030,Tarzana
+4031,Tarzana
+4032,Tarzana
+4033,Encino
+4034,Encino
+4035,Tarzana
+4036,Encino
+4037,Encino
+4038,Encino
+4039,Encino
+4040,Encino
+4041,Encino
+4042,Encino
+4043,Encino
+4044,none
+4045,Encino
+4046,Encino
+4047,Tarzana
+4048,Tarzana
+4049,Sherman Oaks
+4050,Sherman Oaks
+4051,Sherman Oaks
+4052,Sherman Oaks
+4053,Sherman Oaks
+4054,Sherman Oaks
+4055,Sherman Oaks
+4056,Sherman Oaks
+4057,Sherman Oaks
+4058,Sherman Oaks
+4059,Sherman Oaks
+4060,Sherman Oaks
+4061,Sherman Oaks
+4062,Sherman Oaks
+4063,Sherman Oaks
+4064,Woodley
+4065,Sherman Oaks
+4066,Encino
+4067,Encino
+4068,Encino
+4069,Sherman Oaks
+4070,Sherman Oaks
+4071,Sherman Oaks
+4072,Sherman Oaks
+4073,none
+4074,Sherman Oaks
+4075,Toluca Lake
+4076,Toluca Lake
+4077,Toluca Lake
+4078,none
+4079,none
+4080,none
+4081,Studio City
+4082,Studio City
+4083,Studio City
+4084,Valley Village
+4085,Studio City
+4086,Studio City
+4087,Studio City
+4088,Studio City
+4089,Studio City
+4090,Sherman Oaks
+4091,Sherman Oaks
+4092,Studio City
+4093,Studio City
+4094,Studio City
+4095,Studio City
+4096,Central LA
+4097,Studio City
+4098,Studio City
+4099,Studio City
+4100,Studio City
+4101,Studio City
+4102,Hollywood Hills
+4103,Hollywood Hills
+4104,Studio City
+4105,Studio City
+4106,Studio City
+4107,Studio City
+4108,Studio City
+4109,none
+4110,Studio City
+4111,Studio City
+4112,Studio City
+4113,Studio City
+4114,Studio City
+4115,Eagle Rock
+4116,Eagle Rock
+4117,Eagle Rock
+4118,Eagle Rock
+4119,Eagle Rock
+4120,Somerset
+4121,Eagle Rock
+4122,Eagle Rock
+4123,Eagle Rock
+4124,Eagle Rock
+4125,Eagle Rock
+4126,Eagle Rock
+4127,Eagle Rock
+4128,Eagle Rock
+4129,Eagle Rock
+4130,Eagle Rock
+4131,Eagle Rock
+4132,Eagle Rock
+4133,South Arroyo
+4134,Highland Park
+4135,Highland Park
+4136,Highland Park
+4137,Highland Park
+4138,Highland Park
+4139,Eagle Rock
+4140,Eagle Rock
+4141,Eagle Rock
+4142,Eagle Rock
+4143,Eagle Rock
+4144,Eagle Rock
+4145,Eagle Rock
+4146,Eagle Rock
+4147,Eagle Rock
+4148,Eagle Rock
+4149,Eagle Rock
+4150,Eagle Rock
+4151,Eagle Rock
+4152,Eagle Rock
+4153,Eagle Rock
+4154,Eagle Rock
+4155,Eagle Rock
+4156,Highland Park
+4157,Eagle Rock
+4158,Highland Park
+4159,Highland Park
+4160,Highland Park
+4161,Highland Park
+4162,Montecito Heights
+4163,Eagle Rock
+4164,Eagle Rock
+4165,Montecito Heights
+4166,Eagle Rock
+4167,Mount Washington
+4168,Mount Washington
+4169,Cypress Park
+4170,Cypress Park
+4171,Cypress Park
+4172,Mount Washington
+4173,Mount Washington
+4174,Cypress Park
+4175,Cypress Park
+4176,Cypress Park
+4177,Cypress Park
+4178,Cypress Park
+4179,Echo Park
+4180,Eagle Rock
+4181,Eagle Rock
+4182,Eagle Rock
+4183,Eagle Rock
+4184,Eagle Rock
+4185,Eagle Rock
+4186,Eagle Rock
+4187,Eagle Rock
+4188,Cypress Park
+4189,Eagle Rock
+4190,Eagle Rock
+4191,Atwater Village
+4192,Eagle Rock
+4193,Glassell Park
+4194,Glassell Park
+4195,Atwater Village
+4196,Atwater Village
+4197,Atwater Village
+4198,Glassell Park
+4199,Glassell Park
+4200,Glassell Park
+4201,Atwater Village
+4202,Atwater Village
+4203,Atwater Village
+4204,Atwater Village
+4205,Atwater Village
+4206,Northeast Los Angeles
+4207,Atwater Village
+4208,Echo Park
+4209,Echo Park
+4210,Atwater Village
+4211,Atwater Village
+4212,Atwater Village
+4213,Atwater Village
+4214,Silver Lake
+4215,Silver Lake
+4216,Los Feliz
+4217,Los Feliz
+4218,none
+4219,Atwater Village
+4220,Atwater Village
+4221,Atwater Village
+4222,Los Feliz
+4223,Los Feliz
+4224,East Hollywood
+4225,East Hollywood
+4226,Los Feliz
+4227,Los Feliz
+4228,Los Feliz
+4229,Los Feliz
+4230,Little Armenia
+4231,Los Feliz
+4232,Los Feliz
+4233,Hollywood Hills
+4234,Hollywood Hills
+4235,Hollywood Hills
+4236,Hollywoodland
+4237,Hollywood Hills
+4238,Hollywood Hills
+4239,Hollywood Hills
+4240,Hollywood Hills
+4241,Hollywood Hills
+4242,Hollywood Hills
+4243,Hollywoodland
+4244,none
+4245,Hollywood Hills
+4246,none
+4247,Hollywood Hills
+4248,Hollywood
+4249,Hollywood
+4250,Hollywood
+4251,Hollywood
+4252,Hollywood
+4253,Hollywood
+4254,Hollywood
+4255,Hollywood
+4256,Hollywood Hills
+4257,Hollywood
+4258,Hollywood
+4259,Hollywood
+4260,Hollywood
+4261,Hollywood
+4262,Little Armenia
+4263,Hollywood
+4264,Little Armenia
+4265,Little Armenia
+4266,Little Armenia
+4267,Little Armenia
+4268,Hollywood
+4269,Hollywood
+4270,Hollywood
+4271,Hollywood
+4272,Hollywood
+4273,Hollywood
+4274,Little Armenia
+4275,Hollywood
+4276,Hollywood
+4277,Hollywood
+4278,Hollywood
+4279,Hollywood
+4280,Hollywood
+4281,Hollywood
+4282,Hollywood
+4283,Hollywood
+4284,Hollywood
+4285,Little Armenia
+4286,East Hollywood
+4287,Hollywood
+4288,Little Armenia
+4289,Little Armenia
+4290,East Hollywood
+4291,East Hollywood
+4292,East Hollywood
+4293,East Hollywood
+4294,Silver Lake
+4295,East Hollywood
+4296,East Hollywood
+4297,East Hollywood
+4298,East Hollywood
+4299,East Hollywood
+4300,East Hollywood
+4301,East Hollywood
+4302,East Hollywood
+4303,East Hollywood
+4304,Hollywood
+4305,Hollywood
+4306,Hollywood
+4307,Hollywood
+4308,Hollywood
+4309,Hollywood
+4310,Hollywood
+4311,Hollywood
+4312,Hollywood
+4313,Hollywood
+4314,Hollywood
+4315,Greater Wilshire / Hancock Park
+4316,Hollywood
+4317,Greater Wilshire / Hancock Park
+4318,Central LA
+4319,Fairfax
+4320,Fairfax
+4321,Central LA
+4322,Fairfax
+4323,Fairfax
+4324,Greater Wilshire / Hancock Park
+4325,Greater Wilshire / Hancock Park
+4326,Greater Wilshire / Hancock Park
+4327,Central LA
+4328,Central LA
+4329,Greater Wilshire / Hancock Park
+4330,Central LA
+4331,Greater Wilshire / Hancock Park
+4332,Greater Wilshire / Hancock Park
+4333,Hollywood
+4334,Hollywood
+4335,Central LA
+4336,Central LA
+4337,East Hollywood
+4338,East Hollywood
+4339,Hollywood
+4340,Hollywood
+4341,East Hollywood
+4342,East Hollywood
+4343,Hollywood Hills
+4344,Hollywood Hills
+4345,Hollywood Hills
+4346,Hollywood Hills
+4347,Hollywood Hills
+4348,Hollywood Hills
+4349,Hollywood
+4350,Hollywood Hills
+4351,Hollywood Hills
+4352,The Bird Streets
+4353,Central LA
+4354,Central LA
+4355,Fairfax
+4356,Beverly Grove
+4357,Beverly Grove
+4358,Central LA
+4359,Fairfax
+4360,Beverly Grove
+4361,Beverly Grove
+4362,Silver Lake
+4363,Silver Lake
+4364,Silver Lake
+4365,Silver Lake
+4366,Silver Lake
+4367,Los Feliz
+4368,Los Feliz
+4369,Los Feliz
+4370,Los Feliz
+4371,Silver Lake
+4372,Los Feliz
+4373,Los Feliz
+4374,Los Feliz
+4375,Silver Lake
+4376,Silver Lake
+4377,Silver Lake
+4378,Silver Lake
+4379,Silver Lake
+4380,Silver Lake
+4381,Silver Lake
+4382,Silver Lake
+4383,Echo Park
+4384,Echo Park
+4385,Echo Park
+4386,Silver Lake
+4387,Echo Park
+4388,Echo Park
+4389,Historic Filipinotown
+4390,Silver Lake
+4391,Silver Lake
+4392,Silver Lake
+4393,Silver Lake
+4394,Silver Lake
+4395,Historic Filipinotown
+4396,Silver Lake
+4397,Silver Lake
+4398,Silver Lake
+4399,Silver Lake
+4400,Silver Lake
+4401,Chinatown
+4402,Chinatown
+4403,Echo Park
+4404,Echo Park
+4405,Echo Park
+4406,Echo Park
+4407,Echo Park
+4408,Echo Park
+4409,Echo Park
+4410,Echo Park
+4411,Echo Park
+4412,Echo Park
+4413,Echo Park
+4414,Echo Park
+4415,Echo Park
+4416,Echo Park
+4417,Echo Park
+4418,Echo Park
+4419,Echo Park
+4420,Echo Park
+4421,Echo Park
+4422,Little Tokyo
+4423,Echo Park
+4424,Echo Park
+4425,Echo Park
+4426,Cypress Park
+4427,Montecito Heights
+4428,Montecito Heights
+4429,Northeast Los Angeles
+4430,Montecito Heights
+4431,Montecito Heights
+4432,Montecito Heights
+4433,Montecito Heights
+4434,Montecito Heights
+4435,Montecito Heights
+4436,Montecito Heights
+4437,Montecito Heights
+4438,Montecito Heights
+4439,Mount Washington
+4440,Mount Washington
+4441,Mount Washington
+4442,Chinatown
+4443,Chinatown
+4444,Montecito Heights
+4445,Montecito Heights
+4446,Montecito Heights
+4447,Montecito Heights
+4448,Montecito Heights
+4449,Northeast Los Angeles
+4450,none
+4451,none
+4452,none
+4453,Northeast Los Angeles
+4454,Northeast Los Angeles
+4455,Northeast Los Angeles
+4456,Montecito Heights
+4457,Monterey Hills
+4458,Monterey Hills
+4459,Monterey Hills
+4460,Monterey Hills
+4461,Northeast Los Angeles
+4462,Northeast Los Angeles
+4463,Northeast Los Angeles
+4464,Northeast Los Angeles
+4465,none
+4466,none
+4467,none
+4468,Northeast Los Angeles
+4469,Northeast Los Angeles
+4470,Northeast Los Angeles
+4471,Northeast Los Angeles
+4472,none
+4473,Northeast Los Angeles
+4474,Northeast Los Angeles
+4475,Northeast Los Angeles
+4476,Northeast Los Angeles
+4477,none
+4478,Northeast Los Angeles
+4479,none
+4480,none
+4481,none
+4482,Northeast Los Angeles
+4483,Northeast Los Angeles
+4484,Boyle Heights
+4485,none
+4486,Boyle Heights
+4487,none
+4488,Northeast Los Angeles
+4489,Northeast Los Angeles
+4490,Chinatown
+4491,Boyle Heights
+4492,Northeast Los Angeles
+4493,Chinatown
+4494,Boyle Heights
+4495,Boyle Heights
+4496,Boyle Heights
+4497,Boyle Heights
+4498,Boyle Heights
+4499,Boyle Heights
+4500,Boyle Heights
+4501,Boyle Heights
+4502,Boyle Heights
+4503,Boyle Heights
+4504,Boyle Heights
+4505,none
+4506,none
+4507,Boyle Heights
+4508,none
+4509,none
+4510,none
+4511,none
+4512,Boyle Heights
+4513,Boyle Heights
+4514,Boyle Heights
+4515,Boyle Heights
+4516,Boyle Heights
+4517,Boyle Heights
+4518,Boyle Heights
+4519,Boyle Heights
+4520,Boyle Heights
+4521,Boyle Heights
+4522,Boyle Heights
+4523,Boyle Heights
+4524,Boyle Heights
+4525,Boyle Heights
+4526,Boyle Heights
+4527,Boyle Heights
+4528,Boyle Heights
+4529,Boyle Heights
+4530,Boyle Heights
+4531,Boyle Heights
+4532,Boyle Heights
+4533,Boyle Heights
+4534,Boyle Heights
+4535,Boyle Heights
+4536,Boyle Heights
+4537,Boyle Heights
+4538,Boyle Heights
+4539,Boyle Heights
+4540,Boyle Heights
+4541,Boyle Heights
+4542,none
+4543,Boyle Heights
+4544,Boyle Heights
+4545,Boyle Heights
+4546,Boyle Heights
+4547,Boyle Heights
+4548,Downtown
+4549,Little Tokyo
+4550,Skid Row
+4551,Chinatown
+4552,Chinatown
+4553,Chinatown
+4554,Historic Core
+4555,Historic Core
+4556,Little Tokyo
+4557,Financial District
+4558,South Park
+4559,Little Tokyo
+4560,Westlake North
+4561,Westlake North
+4562,Echo Park
+4563,Echo Park
+4564,Echo Park
+4565,Westlake North
+4566,Westlake North
+4567,Historic Filipinotown
+4568,Westlake North
+4569,Historic Filipinotown
+4570,Historic Filipinotown
+4571,Westlake North
+4572,Historic Filipinotown
+4573,Rampart Village
+4574,Rampart Village
+4575,Rampart Village
+4576,Rampart Village
+4577,Rampart Village
+4578,MacArthur Park
+4579,MacArthur Park
+4580,Westlake North
+4581,Westlake North
+4582,Westlake North
+4583,Westlake North
+4584,Westlake North
+4585,Westlake South
+4586,Westlake South
+4587,MacArthur Park
+4588,MacArthur Park
+4589,MacArthur Park
+4590,Westlake South
+4591,Westlake South
+4592,Pico-Union
+4593,Pico-Union
+4594,Pico-Union
+4595,Pico-Union
+4596,Pico-Union
+4597,Westlake South
+4598,South Park
+4599,Westlake South
+4600,Westlake South
+4601,Greater Wilshire / Hancock Park
+4602,Greater Wilshire / Hancock Park
+4603,Greater Wilshire / Hancock Park
+4604,Greater Wilshire / Hancock Park
+4605,Greater Wilshire / Hancock Park
+4606,Greater Wilshire / Hancock Park
+4607,East Hollywood
+4608,Rampart Village
+4609,Wilshire Center
+4610,Rampart Village
+4611,Rampart Village
+4612,East Hollywood
+4613,Koreatown
+4614,Koreatown
+4615,Koreatown
+4616,Koreatown
+4617,Koreatown
+4618,Central LA
+4619,Koreatown
+4620,Greater Wilshire / Hancock Park
+4621,Wilshire Center
+4622,Greater Wilshire / Hancock Park
+4623,Greater Wilshire / Hancock Park
+4624,Greater Wilshire / Hancock Park
+4625,Koreatown
+4626,Wilshire Center
+4627,Koreatown
+4628,Koreatown
+4629,Koreatown
+4630,Wilshire Center
+4631,Rampart Village
+4632,Koreatown
+4633,Koreatown
+4634,Wilshire Center
+4635,Wilshire Center
+4636,Wilshire Center
+4637,Koreatown
+4638,Wilshire Center
+4639,Koreatown
+4640,Koreatown
+4641,Koreatown
+4642,Wilshire Center
+4643,Wilshire Center
+4644,Wilshire Center
+4645,Wilshire Center
+4646,Wilshire Center
+4647,Wilshire Center
+4648,Mid City
+4649,Greater Wilshire / Hancock Park
+4650,Greater Wilshire / Hancock Park
+4651,Greater Wilshire / Hancock Park
+4652,Mid-Wilshire
+4653,Mid-Wilshire
+4654,Mid-Wilshire
+4655,Mid City
+4656,Mid City
+4657,Mid City
+4658,Mid City
+4659,Mid City
+4660,Mid City
+4661,Mid City
+4662,Mid City
+4663,Mid City
+4664,Mid City
+4665,Mid City
+4666,Mid City
+4667,Mid City
+4668,Mid City
+4669,Mid City
+4670,Mid City
+4671,Fairfax
+4672,La Brea
+4673,La Brea
+4674,Greater Wilshire / Hancock Park
+4675,Greater Wilshire / Hancock Park
+4676,Greater Wilshire / Hancock Park
+4677,Greater Wilshire / Hancock Park
+4678,Greater Wilshire / Hancock Park
+4679,Greater Wilshire / Hancock Park
+4680,Fairfax
+4681,Fairfax
+4682,Fairfax
+4683,La Brea
+4684,La Brea
+4685,La Brea
+4686,La Brea
+4687,La Brea
+4688,La Brea
+4689,Beverly Grove
+4690,La Brea
+4691,Beverly Grove
+4692,Beverly Grove
+4693,Beverly Grove
+4694,Beverly Grove
+4695,Beverly Grove
+4696,West Hollywood West
+4697,Beverly Grove
+4698,Beverly Grove
+4699,Greater Wilshire / Hancock Park
+4700,Miracle Mile
+4701,Greater Wilshire / Hancock Park
+4702,Mid-Wilshire
+4703,Greater Wilshire / Hancock Park
+4704,Greater Wilshire / Hancock Park
+4705,Miracle Mile
+4706,Miracle Mile
+4707,Miracle Mile
+4708,Mid-Wilshire
+4709,Miracle Mile
+4710,Mid-Wilshire
+4711,Mid-Wilshire
+4712,Carthay Circle
+4713,Carthay Circle
+4714,Pico - Robertson
+4715,Pico - Robertson
+4716,Pico - Robertson
+4717,Pico - Robertson
+4718,Faircrest Heights
+4719,Mid City
+4720,Faircrest Heights
+4721,Faircrest Heights
+4722,Carthay Circle
+4723,Faircrest Heights
+4724,Faircrest Heights
+4725,Carthay Circle
+4726,Mid-Wilshire
+4727,Mid-Wilshire
+4728,Mid-Wilshire
+4729,Mid City
+4730,Mid-Wilshire
+4731,Mid-Wilshire
+4732,Pico - Robertson
+4733,Beverlywood
+4734,Pico - Robertson
+4735,Pico - Robertson
+4736,Pico - Robertson
+4737,Pico - Robertson
+4738,Pico - Robertson
+4739,Mid-Wilshire
+4740,Mid-Wilshire
+4741,Mid-Wilshire
+4742,Mid-Wilshire
+4743,Mid-Wilshire
+4744,Mid-Wilshire
+4745,Mid-Wilshire
+4746,Mid-Wilshire
+4747,Mid-Wilshire
+4748,Mid City
+4749,Mid City
+4750,Mid City
+4751,Mid City
+4752,Mid-Wilshire
+4753,Mid City
+4754,Mid-Wilshire
+4755,Mid City
+4756,Mid City
+4757,Mid City
+4758,Mid City
+4759,Mid City
+4760,Mid City
+4761,Mid City
+4762,Mid City
+4763,Mid City
+4764,none
+4765,none
+4766,Mid City
+4767,Mid City
+4768,Jefferson
+4769,Mid City
+4770,Mid City
+4771,Jefferson
+4772,Mid City
+4773,Jefferson
+4774,Mid City
+4775,Jefferson
+4776,Mid City
+4777,Mid City
+4778,Mid City
+4779,Mid City
+4780,Jefferson
+4781,Jefferson
+4782,Jefferson
+4783,Jefferson
+4784,Jefferson
+4785,South Los Angeles
+4786,South Los Angeles
+4787,South Los Angeles
+4788,Leimert Park
+4789,Leimert Park
+4790,Jefferson
+4791,Crenshaw
+4792,Crenshaw
+4793,Jefferson
+4794,Jefferson
+4795,Baldwin Village
+4796,Jefferson
+4797,none
+4798,none
+4799,none
+4800,none
+4801,none
+4802,none
+4803,Jefferson
+4804,Crenshaw
+4805,Crenshaw
+4806,Jefferson
+4807,Jefferson
+4808,Baldwin Hills
+4809,none
+4810,Baldwin Hills
+4811,Pico-Union
+4812,Pico-Union
+4813,El Salvador Community Corridor
+4814,Mid City
+4815,El Salvador Community Corridor
+4816,Mid City
+4817,Mid City
+4818,Mid City
+4819,Mid City
+4820,Mid City
+4821,Mid City
+4822,Mid City
+4823,Mid City
+4824,Jefferson
+4825,Jefferson
+4826,Mid City
+4827,Mid City
+4828,Mid City
+4829,Mid City
+4830,El Salvador Community Corridor
+4831,Jefferson
+4832,Mid City
+4833,El Salvador Community Corridor
+4834,El Salvador Community Corridor
+4835,Jefferson
+4836,University Park
+4837,Jefferson
+4838,Jefferson
+4839,Jefferson
+4840,Jefferson
+4841,Jefferson
+4842,Jefferson
+4843,Jefferson
+4844,South Los Angeles
+4845,South Los Angeles
+4846,South Los Angeles
+4847,South Los Angeles
+4848,Jefferson
+4849,Jefferson
+4850,Jefferson
+4851,Jefferson
+4852,Jefferson
+4853,South Los Angeles
+4854,South Los Angeles
+4855,South Los Angeles
+4856,South Los Angeles
+4857,South Los Angeles
+4858,South Los Angeles
+4859,South Figueroa Corridor
+4860,South Los Angeles
+4861,South Los Angeles
+4862,Pico-Union
+4863,Pico-Union
+4864,Pico-Union
+4865,Pico-Union
+4866,Pico-Union
+4867,University Park
+4868,University Park
+4869,Pico-Union
+4870,South Figueroa Corridor
+4871,South Figueroa Corridor
+4872,South Figueroa Corridor
+4873,University Park
+4874,University Park
+4875,South Los Angeles
+4876,Downtown
+4877,South Los Angeles
+4878,Fashion District
+4879,South Los Angeles
+4880,South Los Angeles
+4881,South Los Angeles
+4882,South Los Angeles
+4883,South Los Angeles
+4884,South Los Angeles
+4885,South Los Angeles
+4886,South Los Angeles
+4887,South Los Angeles
+4888,South Los Angeles
+4889,South Los Angeles
+4890,South Los Angeles
+4891,South Los Angeles
+4892,South Los Angeles
+4893,South Los Angeles
+4894,South Los Angeles
+4895,South Los Angeles
+4896,South Los Angeles
+4897,South Los Angeles
+4898,South Los Angeles
+4899,South Los Angeles
+4900,South Los Angeles
+4901,South Los Angeles
+4902,South Los Angeles
+4903,South Los Angeles
+4904,South Los Angeles
+4905,South Los Angeles
+4906,South Los Angeles
+4907,South Figueroa Corridor
+4908,South Los Angeles
+4909,South Los Angeles
+4910,South Los Angeles
+4911,South Los Angeles
+4912,South Park
+4913,South Park
+4914,South Park
+4915,South Los Angeles
+4916,South Los Angeles
+4917,Central Alameda
+4918,Central Alameda
+4919,Central Alameda
+4920,Central Alameda
+4921,Central Alameda
+4922,Central Alameda
+4923,Central Alameda
+4924,Central Alameda
+4925,Central Alameda
+4926,Central Alameda
+4927,Central Alameda
+4928,Central Alameda
+4929,Central Alameda
+4930,South Los Angeles
+4931,South Los Angeles
+4932,South Park
+4933,South Park
+4934,South Park
+4935,South Los Angeles
+4936,South Los Angeles
+4937,South Park
+4938,South Park
+4939,South Park
+4940,South Figueroa Corridor
+4941,South Figueroa Corridor
+4942,Vermont Harbor
+4943,Vermont Harbor
+4944,South Los Angeles
+4945,South Los Angeles
+4946,South Los Angeles
+4947,Vermont Harbor
+4948,Leimert Park
+4949,South Los Angeles
+4950,South Los Angeles
+4951,Leimert Park
+4952,South Los Angeles
+4953,Leimert Park
+4954,Leimert Park
+4955,Leimert Park
+4956,Vermont Harbor
+4957,Vermont Harbor
+4958,Vermont Harbor
+4959,Vermont Harbor
+4960,Vermont Harbor
+4961,South Figueroa Corridor
+4962,South Park
+4963,Vermont Harbor
+4964,Vermont Harbor
+4965,Vermont Harbor
+4966,South Figueroa Corridor
+4967,South Park
+4968,South Figueroa Corridor
+4969,South Figueroa Corridor
+4970,South Park
+4971,South Park
+4972,South Park
+4973,South Park
+4974,South Park
+4975,Vermont Harbor
+4976,Vermont Harbor
+4977,Vermont Harbor
+4978,Vermont Harbor
+4979,Vermont Harbor
+4980,Vermont Harbor
+4981,Vermont Harbor
+4982,Vermont Harbor
+4983,South Los Angeles
+4984,Vermont Harbor
+4985,South Los Angeles
+4986,South Los Angeles
+4987,South Los Angeles
+4988,South Los Angeles
+4989,South Los Angeles
+4990,South Los Angeles
+4991,South Los Angeles
+4992,Vermont Harbor
+4993,Vermont Harbor
+4994,Vermont Harbor
+4995,South Park
+4996,Vermont Harbor
+4997,South Park
+4998,South Park
+4999,South Park
+5000,Leimert Park
+5001,South Los Angeles
+5002,South Los Angeles
+5003,Leimert Park
+5004,Leimert Park
+5005,Leimert Park
+5006,Leimert Park
+5007,Leimert Park
+5008,Leimert Park
+5009,Leimert Park
+5010,Leimert Park
+5011,Leimert Park
+5012,Park Mesa Heights
+5013,Park Mesa Heights
+5014,Park Mesa Heights
+5015,Park Mesa Heights
+5016,Park Mesa Heights
+5017,Park Mesa Heights
+5018,Park Mesa Heights
+5019,Park Mesa Heights
+5020,Park Mesa Heights
+5021,Windsor Hills
+5022,Park Mesa Heights
+5023,Park Mesa Heights
+5024,Park Mesa Heights
+5025,Windsor Hills
+5026,Park Mesa Heights
+5027,Park Mesa Heights
+5028,Park Mesa Heights
+5029,Park Mesa Heights
+5030,Park Mesa Heights
+5031,Park Mesa Heights
+5032,Park Mesa Heights
+5033,Windsor Hills
+5034,none
+5035,Windsor Hills
+5036,none
+5037,Windsor Hills
+5038,Park Mesa Heights
+5039,Morningside Park
+5040,Park Mesa Heights
+5041,Park Mesa Heights
+5042,Park Mesa Heights
+5043,Park Mesa Heights
+5044,Baldwin Hills
+5045,Baldwin Hills
+5046,Baldwin Hills
+5047,Baldwin Hills
+5048,Leimert Park
+5049,Crenshaw
+5050,Crenshaw
+5051,Crenshaw
+5052,Crenshaw
+5053,Baldwin Village
+5054,Baldwin Village
+5055,Baldwin Village
+5056,Baldwin Hills
+5057,Baldwin Hills
+5058,View Park
+5059,South Park
+5060,South Park
+5061,Vermont Harbor
+5062,Vermont Harbor
+5063,Vermont Harbor
+5064,Vermont Harbor
+5065,Vermont Harbor
+5066,South Los Angeles
+5067,Vermont Harbor
+5068,South Los Angeles
+5069,South Los Angeles
+5070,South Los Angeles
+5071,South Los Angeles
+5072,South Los Angeles
+5073,South Los Angeles
+5074,Park Mesa Heights
+5075,Vermont Harbor
+5076,Vermont Harbor
+5077,South Los Angeles
+5078,South Los Angeles
+5079,South Los Angeles
+5080,South Los Angeles
+5081,Vermont Harbor
+5082,Vermont Harbor
+5083,South Figueroa Corridor
+5084,South Figueroa Corridor
+5085,South Figueroa Corridor
+5086,South Figueroa Corridor
+5087,Vermont Harbor
+5088,South Figueroa Corridor
+5089,South Figueroa Corridor
+5090,South Figueroa Corridor
+5091,South Figueroa Corridor
+5092,South Los Angeles
+5093,South Los Angeles
+5094,South Los Angeles
+5095,South Los Angeles
+5096,South Los Angeles
+5097,South Los Angeles
+5098,South Los Angeles
+5099,South Los Angeles
+5100,South Los Angeles
+5101,South Los Angeles
+5102,South Los Angeles
+5103,South Los Angeles
+5104,South Los Angeles
+5105,South Los Angeles
+5106,South Los Angeles
+5107,South Los Angeles
+5108,South Los Angeles
+5109,South Los Angeles
+5110,South Figueroa Corridor
+5111,South Los Angeles
+5112,South Los Angeles
+5113,South Los Angeles
+5114,South Los Angeles
+5115,South Los Angeles
+5116,South Figueroa Corridor
+5117,South Los Angeles
+5118,South Los Angeles
+5119,South Los Angeles
+5120,South Los Angeles
+5121,South Los Angeles
+5122,South Los Angeles
+5123,South Los Angeles
+5124,South Park
+5125,South Park
+5126,South Figueroa Corridor
+5127,South Los Angeles
+5128,South Los Angeles
+5129,South Los Angeles
+5130,South Los Angeles
+5131,South Los Angeles
+5132,South Los Angeles
+5133,South Los Angeles
+5134,South Los Angeles
+5135,South Los Angeles
+5136,South Figueroa Corridor
+5137,South Los Angeles
+5138,South Figueroa Corridor
+5139,South Los Angeles
+5140,South Los Angeles
+5141,South Los Angeles
+5142,South Los Angeles
+5143,South Los Angeles
+5144,South Los Angeles
+5145,South Los Angeles
+5146,South Los Angeles
+5147,South Los Angeles
+5148,South Los Angeles
+5149,South Los Angeles
+5150,South Los Angeles
+5151,South Los Angeles
+5152,South Los Angeles
+5153,South Los Angeles
+5154,South Los Angeles
+5155,South Los Angeles
+5156,South Los Angeles
+5157,South Los Angeles
+5158,South Los Angeles
+5159,South Los Angeles
+5160,South Los Angeles
+5161,South Los Angeles
+5162,South Los Angeles
+5163,South Los Angeles
+5164,South Los Angeles
+5165,South Los Angeles
+5166,South Los Angeles
+5167,South Los Angeles
+5168,South Los Angeles
+5169,South Los Angeles
+5170,South Los Angeles
+5171,South Los Angeles
+5172,South Los Angeles
+5173,South Los Angeles
+5174,South Los Angeles
+5175,South Los Angeles
+5176,South Los Angeles
+5177,South Los Angeles
+5178,South Los Angeles
+5179,South Los Angeles
+5180,Watts
+5181,South Los Angeles
+5182,South Los Angeles
+5183,South Los Angeles
+5184,Harbor Gateway North
+5185,Harbor Gateway North
+5186,South Los Angeles
+5187,South Los Angeles
+5188,Harbor Gateway North
+5189,Harbor Gateway North
+5190,Harbor Gateway North
+5191,Watts
+5192,South Los Angeles
+5193,South Los Angeles
+5194,South Los Angeles
+5195,South Los Angeles
+5196,South Los Angeles
+5197,Harbor Gateway North
+5198,South Los Angeles
+5199,South Los Angeles
+5200,South Los Angeles
+5201,Harbor Gateway North
+5202,Harbor Gateway North
+5203,South Los Angeles
+5204,Harbor Gateway North
+5205,Harbor Gateway North
+5206,Harbor Gateway North
+5207,Harbor Gateway North
+5208,South Los Angeles
+5209,Harbor Gateway North
+5210,Harbor Gateway North
+5211,Harbor Gateway North
+5212,Watts
+5213,Watts
+5214,Watts
+5215,South Los Angeles
+5216,Watts
+5217,Watts
+5218,Watts
+5219,Watts
+5220,South Los Angeles
+5221,Watts
+5222,South Los Angeles
+5223,Watts
+5224,Watts
+5225,Watts
+5226,Watts
+5227,Watts
+5228,Watts
+5229,Watts
+5230,Watts
+5231,Watts
+5232,Watts
+5233,Watts
+5234,Watts
+5235,Watts
+5236,Watts
+5237,Watts
+5238,Watts
+5239,Hollywood Hills
+5240,none
+5241,North Beverly Park
+5242,none
+5243,Beverly Glen
+5244,Bel Air
+5245,Bel Air
+5246,Holmby Hills
+5247,Bel Air
+5248,Bel Air
+5249,Bel Air
+5250,Bel Air
+5251,none
+5252,Brentwood
+5253,Brentwood
+5254,Brentwood
+5255,Brentwood
+5256,Brentwood
+5257,none
+5258,none
+5259,none
+5260,none
+5261,Pacific Palisades
+5262,none
+5263,Pacific Palisades
+5264,Pacific Palisades
+5265,none
+5266,none
+5267,Ridgeview Country Estates
+5268,none
+5269,Pacific Palisades
+5270,Pacific Palisades
+5271,Pacific Palisades
+5272,none
+5273,none
+5274,none
+5275,Pacific Palisades
+5276,Brentwood
+5277,Brentwood
+5278,Brentwood
+5279,Brentwood
+5280,Brentwood
+5281,none
+5282,Sawtelle
+5283,Sawtelle
+5284,Sawtelle
+5285,Sawtelle
+5286,Sawtelle
+5287,Brentwood
+5288,Brentwood
+5289,The Flats
+5290,Westwood
+5291,Westwood
+5292,Westwood
+5293,Westwood
+5294,Westwood
+5295,Westwood
+5296,Westwood
+5297,Westwood
+5298,Westwood
+5299,none
+5300,none
+5301,Westwood
+5302,Westwood
+5303,Westwood
+5304,Westwood
+5305,Westwood
+5306,Westwood
+5307,Westwood
+5308,Westwood
+5309,Westwood
+5310,West Los Angeles
+5311,Westwood
+5312,Century City
+5313,Westwood
+5314,Westwood
+5315,Westwood
+5316,Century City
+5317,Century City
+5318,Century City
+5319,West Los Angeles
+5320,West Los Angeles
+5321,Westwood
+5322,Westwood
+5323,West Los Angeles
+5324,Sawtelle
+5325,Sawtelle
+5326,Sawtelle
+5327,Sawtelle
+5328,Sawtelle
+5329,Sawtelle
+5330,Mid-City
+5331,Sawtelle
+5332,Sawtelle
+5333,Sawtelle
+5334,Sawtelle
+5335,Sawtelle
+5336,Sawtelle
+5337,Sawtelle
+5338,Sawtelle
+5339,West Los Angeles
+5340,West Los Angeles
+5341,West Los Angeles
+5342,West Los Angeles
+5343,Rancho Park
+5344,West Los Angeles
+5345,Cheviot Hills
+5346,Century City
+5347,Century City
+5348,Beverlywood
+5349,Beverlywood
+5350,Beverlywood
+5351,Castle Heights
+5352,Palms
+5353,Cheviot Hills
+5354,Beverlywood
+5355,Beverlywood
+5356,Beverlywood
+5357,Beverlywood
+5358,Cheviot Hills
+5359,Cheviot Hills
+5360,Palms
+5361,Rancho Park
+5362,Rancho Park
+5363,Beverlywood
+5364,Beverlywood
+5365,Beverlywood
+5366,Beverlywood
+5367,Beverlywood
+5368,Mid City
+5369,Mid City
+5370,Mid City
+5371,Mid City
+5372,Mid City
+5373,Beverlywood
+5374,Beverlywood
+5375,Beverlywood
+5376,Palms
+5377,Palms
+5378,Castle Heights
+5379,Castle Heights
+5380,Palms
+5381,Washington Culver
+5382,Washington Culver
+5383,Palms
+5384,Palms
+5385,Palms
+5386,Palms
+5387,Castle Heights
+5388,McManus
+5389,Palms
+5390,Mid City
+5391,Mid City
+5392,McManus
+5393,Mid City
+5394,Mid City
+5395,Palms
+5396,Palms
+5397,Palms
+5398,Palms
+5399,Palms
+5400,Mar Vista
+5401,Palms
+5402,Mar Vista
+5403,Mar Vista
+5404,Mar Vista
+5405,Sawtelle
+5406,Sawtelle
+5407,Mar Vista
+5408,Mar Vista
+5409,Mar Vista
+5410,Mar Vista
+5411,Mar Vista
+5412,Mar Vista
+5413,Mar Vista
+5414,Mar Vista
+5415,Mar Vista
+5416,Mar Vista
+5417,Mar Vista
+5418,Mar Vista
+5419,Mar Vista
+5420,Palms
+5421,Palms
+5422,Palms
+5423,Palms
+5424,Palms
+5425,Palms
+5426,Palms
+5427,Palms
+5428,Palms
+5429,Palms
+5430,Palms
+5431,Palms
+5432,McLaughlin
+5433,McLaughlin
+5434,Mar Vista
+5435,Mar Vista
+5436,Mar Vista
+5437,Mar Vista
+5438,Mar Vista
+5439,Mar Vista
+5440,Venice
+5441,Mar Vista
+5442,Culver - West
+5443,Mar Vista
+5444,Mar Vista
+5445,McLaughlin
+5446,McLaughlin
+5447,Mar Vista
+5448,Culver - West
+5449,Sunset Park
+5450,Venice
+5451,Venice
+5452,Venice
+5453,Sunset Park
+5454,Oakwood
+5455,Oakwood
+5456,Venice
+5457,Venice
+5458,Oakwood
+5459,Venice
+5460,Venice
+5461,Venice
+5462,none
+5463,none
+5464,Venice
+5465,Venice
+5466,Venice
+5467,Venice
+5468,Venice
+5469,none
+5470,Venice
+5471,Venice
+5472,Venice
+5473,Venice
+5474,Venice
+5475,Venice
+5476,Venice
+5477,Venice
+5478,Venice
+5479,Venice
+5480,Venice
+5481,Venice
+5482,none
+5483,Venice
+5484,none
+5485,none
+5486,Venice
+5487,Venice
+5488,none
+5489,Venice
+5490,Venice
+5491,Venice
+5492,none
+5493,Studio Village
+5494,none
+5495,none
+5496,none
+5497,Mar Vista
+5498,none
+5499,Culver - West
+5500,none
+5501,Culver - West
+5502,Culver - West
+5503,none
+5504,none
+5505,Culver - West
+5506,none
+5507,none
+5508,none
+5509,none
+5510,none
+5511,none
+5512,Sunkist Park
+5513,Westchester
+5514,Westchester
+5515,Westchester
+5516,Westchester
+5517,Westchester
+5518,Westchester
+5519,Westchester
+5520,Westchester
+5521,none
+5522,none
+5523,none
+5524,Westchester
+5525,Westchester
+5526,Westchester
+5527,Westchester
+5528,Westchester
+5529,Westchester
+5530,Westchester
+5531,Playa del Rey
+5532,Playa del Rey
+5533,Playa del Rey
+5534,Playa del Rey
+5535,Playa del Rey
+5536,Playa del Rey
+5537,Playa del Rey
+5538,Playa del Rey
+5539,Westchester
+5540,Westchester
+5541,Westchester
+5542,Westchester
+5543,Westchester
+5544,Westchester
+5545,Westchester
+5546,none
+5547,Westchester
+5548,Westchester
+5549,none
+5550,none
+5551,none
+5552,Westchester
+5553,Westchester
+5554,Westchester
+5555,none
+5556,Playa del Rey
+5557,Playa del Rey
+5558,Playa del Rey
+5559,South Los Angeles
+5560,South Los Angeles
+5561,Harbor Gateway North
+5562,Harbor Gateway North
+5563,Harbor Gateway North
+5564,Harbor Gateway North
+5565,none
+5566,Harbor Gateway North
+5567,Harbor Gateway North
+5568,Harbor Gateway North
+5569,Harbor Gateway North
+5570,Harbor Gateway North
+5571,Harbor Gateway North
+5572,Harbor Gateway South
+5573,none
+5574,Harbor Gateway South
+5575,Harbor Gateway South
+5576,Harbor Gateway South
+5577,Harbor Gateway South
+5578,Harbor Gateway South
+5579,Old Town Torrance
+5580,Harbor Gateway South
+5581,Harbor Gateway South
+5582,Harbor Gateway South
+5583,Harbor City
+5584,Harbor City
+5585,none
+5586,Harbor City
+5587,Harbor City
+5588,Harbor City
+5589,Northwest San Pedro
+5590,Wilmington
+5591,none
+5592,Wilmington
+5593,Wilmington
+5594,Wilmington
+5595,none
+5596,none
+5597,Wilmington
+5598,Wilmington
+5599,none
+5600,Wilmington
+5601,Wilmington
+5602,Wilmington
+5603,Harbor City
+5604,Harbor City
+5605,Harbor City
+5606,Harbor City
+5607,Wilmington
+5608,Wilmington
+5609,Wilmington
+5610,Wilmington
+5611,Wilmington
+5612,Wilmington
+5613,Wilmington
+5614,Wilmington
+5615,Wilmington
+5616,Port of Long Beach
+5617,Wilmington
+5618,Wilmington
+5619,Wilmington
+5620,Wilmington
+5621,Wilmington
+5622,Wilmington
+5623,Wilmington
+5624,Wilmington
+5625,Wilmington
+5626,Wilmington
+5627,Northwest San Pedro
+5628,Northwest San Pedro
+5629,Wilmington
+5630,Wilmington
+5631,Wilmington
+5632,Central San Pedro
+5633,Wilmington
+5634,Central San Pedro
+5635,Northwest San Pedro
+5636,Northwest San Pedro
+5637,Northwest San Pedro
+5638,Northwest San Pedro
+5639,Northwest San Pedro
+5640,Northwest San Pedro
+5641,Northwest San Pedro
+5642,Wilmington
+5643,Northwest San Pedro
+5644,Wilmington
+5645,Central San Pedro
+5646,Central San Pedro
+5647,Central San Pedro
+5648,Central San Pedro
+5649,Central San Pedro
+5650,Central San Pedro
+5651,Central San Pedro
+5652,Central San Pedro
+5653,Northwest San Pedro
+5654,Northwest San Pedro
+5655,Northwest San Pedro
+5656,Northwest San Pedro
+5657,Central San Pedro
+5658,Northwest San Pedro
+5659,Central San Pedro
+5660,Central San Pedro
+5661,Central San Pedro
+5662,Central San Pedro
+5663,Central San Pedro
+5664,Coastal San Pedro
+5665,Coastal San Pedro
+5666,Coastal San Pedro
+5667,Central San Pedro
+5668,Northwest San Pedro
+5669,Coastal San Pedro
+5670,none
+5671,Northwest San Pedro
+5672,San Pedro
+5673,Coastal San Pedro
+5674,Coastal San Pedro
+5675,none
+5676,Coastal San Pedro
+5677,Coastal San Pedro
+5678,Coastal San Pedro
+5679,Coastal San Pedro
+5680,Coastal San Pedro
+5681,Coastal San Pedro
+5682,none
+5683,none
+5684,none
+5685,none
+5686,none
+5687,none
+5688,none
+5689,none
+5690,none
+5691,Crescenta Highlands
+5692,Crescenta Highlands
+5693,Crescenta Highlands
+5694,Crescenta Highlands
+5695,Crescenta Highlands
+5696,Crescenta Highlands
+5697,Crescenta Highlands
+5698,Crescenta Highlands
+5699,Crescenta Highlands
+5700,Crescenta Highlands
+5701,Crescenta Highlands
+5702,Crescenta Highlands
+5703,Crescenta Highlands
+5704,none
+5705,Montrose
+5706,Montrose
+5707,Montrose
+5708,Montrose
+5709,none
+5710,none
+5711,Crescenta Highlands
+5712,Montrose
+5713,Sparr Heights
+5714,Sparr Heights
+5715,Oakmont
+5716,Montrose Verdugo City
+5717,none
+5718,Verdugo Mountains
+5719,Verdugo Woodlands
+5720,Verdugo Woodlands
+5721,Verdugo Woodlands
+5722,Verdugo Mountains
+5723,Verdugo Woodlands
+5724,Verdugo Woodlands
+5725,Verdugo Woodlands
+5726,Chevy Chase
+5727,Verdugo Woodlands
+5728,Chevy Chase
+5729,Chevy Chase
+5730,none
+5731,Glenoaks Canyon
+5732,College Hills
+5733,Woodbury
+5734,Woodbury
+5735,Rossmoyne
+5736,Rossmoyne
+5737,Rossmoyne
+5738,Rossmoyne
+5739,Rossmoyne
+5740,Rossmoyne
+5741,Verdugo Viejo
+5742,Verdugo Viejo
+5743,Verdugo Viejo
+5744,Verdugo Viejo
+5745,Glenwood
+5746,Glenwood
+5747,Glenwood
+5748,Grandview
+5749,Glenwood
+5750,Glenwood
+5751,Verdugo Mountains
+5752,El Miradero
+5753,El Miradero
+5754,El Miradero
+5755,El Miradero
+5756,Grandview
+5757,Grandview
+5758,Grandview
+5759,El Miradero
+5760,Grand Central
+5761,Grand Central
+5762,Grandview
+5763,none
+5764,none
+5765,Grand Central
+5766,Riverside Rancho
+5767,Riverside Rancho
+5768,Glenwood
+5769,Vineyard
+5770,Vineyard
+5771,Vineyard
+5772,Glenwood
+5773,Glenwood
+5774,Pelanconi
+5775,Verdugo Viejo
+5776,Vineyard
+5777,Vineyard
+5778,Vineyard
+5779,Rossmoyne
+5780,Citrus Grove
+5781,Citrus Grove
+5782,Downtown
+5783,Rossmoyne
+5784,Citrus Grove
+5785,Citrus Grove
+5786,Downtown
+5787,Downtown
+5788,Downtown
+5789,Somerset
+5790,Mariposa
+5791,Mariposa
+5792,Woodbury
+5793,Somerset
+5794,Mariposa
+5795,Mariposa
+5796,Adams Hill
+5797,Adams Hill
+5798,Citrus Grove
+5799,Mariposa
+5800,Mariposa
+5801,Mariposa
+5802,Downtown
+5803,Pacific - Edison
+5804,Pacific - Edison
+5805,Atwater Village
+5806,Pacific - Edison
+5807,Vineyard
+5808,Tropico
+5809,Tropico
+5810,Tropico
+5811,Pacific - Edison
+5812,Mariposa
+5813,Mariposa
+5814,Adams Hill
+5815,Adams Hill
+5816,Adams Hill
+5817,Adams Hill
+5818,Atwater Village
+5819,none
+5820,none
+5821,none
+5822,El Miradero
+5823,none
+5824,none
+5825,none
+5826,none
+5827,none
+5828,none
+5829,none
+5830,none
+5831,none
+5832,none
+5833,none
+5834,none
+5835,none
+5836,North Hollywood
+5837,none
+5838,none
+5839,none
+5840,none
+5841,none
+5842,none
+5843,none
+5844,none
+5845,none
+5846,none
+5847,none
+5848,none
+5849,none
+5850,none
+5851,none
+5852,none
+5853,none
+5854,none
+5855,none
+5856,none
+5857,none
+5858,none
+5859,none
+5860,none
+5861,none
+5862,none
+5863,none
+5864,none
+5865,none
+5866,none
+5867,none
+5868,none
+5869,none
+5870,none
+5871,North Hollywood
+5872,none
+5873,none
+5874,Magnolia Park
+5875,none
+5876,none
+5877,none
+5878,none
+5879,none
+5880,Magnolia Park
+5881,Magnolia Park
+5882,none
+5883,none
+5884,none
+5885,none
+5886,none
+5887,Warner Bros. Studios
+5888,Warner Bros. Studios
+5889,none
+5890,none
+5891,none
+5892,none
+5893,none
+5894,none
+5895,none
+5896,none
+5897,none
+5898,none
+5899,none
+5900,none
+5901,none
+5902,none
+5903,none
+5904,none
+5905,none
+5906,none
+5907,none
+5908,none
+5909,none
+5910,none
+5911,none
+5912,none
+5913,none
+5914,none
+5915,none
+5916,none
+5917,none
+5918,none
+5919,none
+5920,none
+5921,Bonita
+5922,Bonita
+5923,Bonita
+5924,Bonita
+5925,Bonita
+5926,Bonita
+5927,Bonita
+5928,Bonita
+5929,none
+5930,none
+5931,none
+5932,none
+5933,none
+5934,none
+5935,none
+5936,none
+5937,none
+5938,none
+5939,none
+5940,none
+5941,none
+5942,none
+5943,none
+5944,none
+5945,none
+5946,none
+5947,none
+5948,none
+5949,none
+5950,Charter Oak
+5951,none
+5952,none
+5953,none
+5954,none
+5955,none
+5956,Bonita
+5957,Charter Oak
+5958,Bonita
+5959,Charter Oak
+5960,Charter Oak
+5961,Charter Oak
+5962,Bonita
+5963,Bonita
+5964,Bonita
+5965,Bonita
+5966,Bonita
+5967,Bonita
+5968,Bonita
+5969,Bonita
+5970,Bonita
+5971,Bonita
+5972,Bonita
+5973,Bonita
+5974,Bonita
+5975,Bonita
+5976,none
+5977,none
+5978,Westmont
+5979,Westmont
+5980,Westmont
+5981,none
+5982,none
+5983,none
+5984,none
+5985,none
+5986,none
+5987,none
+5988,none
+5989,none
+5990,none
+5991,none
+5992,none
+5993,Westmont
+5994,Westmont
+5995,Westmont
+5996,Westmont
